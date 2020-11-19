@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        var computerChoice = ["r", "p", "s"];
+        var userLoses = 0;
+        var userWins = 0;
+        var userTies = 0;
+
+        for (var i = 0; i < 10; i++) {
+
+            var cGuess = computerChoice[Math.floor(Math.random() * 3)];
+
+            var userChoice = prompt("Enter r, p or s");
+            userChoice = userChoice.toLowerCase();
+
+            if (userChoice === 'r' || userChoice === 'p' || userChoice === 's') {
+
+                if ((userChoice === 'r' && cGuess === 's') || (userChoice === 's' && cGuess === 'p') ||
+                    (userChoice === 'p' && cGuess === 'r')) {
+                    userWins = userWins + 1;
+                } else if ((userChoice === 'r' && cGuess === 'p') || (userChoice === 's' && cGuess === 'r') ||
+                    (userChoice === 'p' && cGuess === 's')) {
+                    userLoses = userLoses + 1;
+                } else {
+                    userTies = userTies + 1;
+                }
+            }
+        };
+        alert("User wins: " + userWins + "  User losses: " + userLoses + "  User ties: " + userTies);
+    </script>
+</body>
+
+</html>

@@ -26,6 +26,22 @@ function close() {
 
 function handleClick() {
   // Use event delegation to handle when the user clicks "edit"
+  if (event.target.matches("button")) {
+    event.preventDefault();
+    modalNameEl.style.display = "block";
+    currentId = parseInt(event.target.parentElement.id);
+
+    var name = people[currentId].name;
+    var description = people[currentId].description;
+
+    modalNameEl.textContent = name;
+    if(description) {
+      descriptionEl.value = description;
+    }
+    else {
+      descriptionEl.value = "";
+    }
+  }
 }
 
 closeEl.addEventListener("click", close);

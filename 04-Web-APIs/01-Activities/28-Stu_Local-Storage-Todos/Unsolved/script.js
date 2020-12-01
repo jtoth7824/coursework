@@ -31,6 +31,11 @@ function renderTodos() {
 function init() {
   // Write code here to check if there are todos in localStorage
   // If so, parse the value from localStorage and assign it to the todos variable
+  var storedTodos = JSON.parse(localStorage.getItem("todos"));
+
+  if (storedTodos !== null) {
+    todos = storedTodos;
+  }
 
   // Render todos to the DOM
   renderTodos();
@@ -38,6 +43,7 @@ function init() {
 
 function storeTodos() {
   // Add code here to stringify the todos array and save it to the "todos" key in localStorage
+  localStorage.setItem("todos", JSON.stringify(todos));
 }
 
 // When form is submitted...
@@ -50,7 +56,6 @@ todoForm.addEventListener("submit", function(event) {
   if (todoText === "") {
     return;
   }
-
   // Add new todoText to todos array, clear the input
   todos.push(todoText);
   todoInput.value = "";
@@ -58,4 +63,17 @@ todoForm.addEventListener("submit", function(event) {
   // Store updated todos in localStorage, re-render the list
   storeTodos();
   renderTodos();
+});
+
+todoList.addEventListener("click", function(event) {
+
+  var whichButton = event.target;
+
+  if (whichButton.matches("button") === true) {
+    var index = whichButton.parentElement.getAttribute("data-index");
+    todos.splice(index, 1);
+
+    storeTodos();
+    renderTodos();
+  }
 });

@@ -2,6 +2,7 @@ var todoInput = document.querySelector("#todo-text");
 var todoForm = document.querySelector("#todo-form");
 var todoList = document.querySelector("#todo-list");
 var todoCountSpan = document.querySelector("#todo-count");
+var completeButton = document.querySelector("Complete");
 
 var todos = ["Learn HTML", "Learn CSS", "Learn JavaScript"];
 
@@ -18,7 +19,13 @@ function renderTodos() {
 
     var li = document.createElement("li");
     li.textContent = todo;
+    li.setAttribute("data-index", i);
+
+    var button = document.createElement("button");
+    button.textContent = "Complete";
+    li.appendChild(button);
     todoList.appendChild(li);
+
   }
 }
 
@@ -38,5 +45,37 @@ todoForm.addEventListener("submit", function(event) {
   todoInput.value = "";
 
   // Re-render the list
+  storeTodos();
   renderTodos();
 });
+
+todoList.addEventListener("click", function(event) {
+
+  var whichButton = event.target;
+
+  if (whichButton.matches("button") === true) {
+    console.log("in IF");
+    var index = whichButton.parentElement.getAttribute("data-index");
+    todos.splice(index, 1);
+    storeTodos();
+    renderTodos();
+  }
+});
+
+function init() {
+  // Write code here to check if there are todos in localStorage
+  // If so, parse the value from localStorage and assign it to the todos variable
+  var storedTodos = JSON.parse(localStorage.getItem("todos"));
+
+  if (storedTodos !== null) {
+    todos = storedTodos;
+  }
+
+  // Render todos to the DOM
+  renderTodos();
+}
+
+function storeTodos() {
+  // Add code here to stringify the todos array and save it to the "todos" key in localStorage
+  localStorage.setItem("todos", JSON.stringify(todos));
+}

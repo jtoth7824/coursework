@@ -29,6 +29,7 @@
 
     // 1. Create code that "grabs" the div with the matching id (#drink-options);
     // ...
+    var drinkEl = document.querySelector("#drink-options");
 
 
     // ...
@@ -37,7 +38,17 @@
     // 2. Create a for loop that creates HTML content of all the drinks using JavaScript.
     // HINT: You will need to use each of the following methods: createElement, textContent, appendChild
     // ...
+    for (var i=0; i<drinkList.length; i++) {
 
+      var appendEl = document.createElement("div");
+      var brEl = document.createElement("br");
+      appendEl.textContent = drinkList[i];
+
+      drinkEl.appendChild(appendEl);
+      drinkEl.appendChild(brEl);
+
+
+    }
 
     // ...
 

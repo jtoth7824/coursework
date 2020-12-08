@@ -78,7 +78,87 @@
 $(document).ready(function() {
 
 // Your code here...
+initialize();
 
+var firstNumber = "";
+var secondNumber = "";
+var operator = "";
+var result = 0;
+var performedCalc = false;
+var operPicked = false;
+var savedOper;
+
+function initialize() {
+ firstNumber = "";
+ secondNumber = "";
+ operator = "";
+ result = 0;
+ performedCalc = false;
+ operPicked = false;
+ savedOper;
+}
+
+$(".number").on("click", function () {
+  
+  if(performedCalc) {
+
+    return false;
+
+  }
+  if(operPicked) {
+    secondNumber = secondNumber + $(this).val();
+    $("#second-number").text(secondNumber);
+  }
+  else {
+    firstNumber = firstNumber + $(this).val();
+    $("#first-number").text(firstNumber);
+  }
+
+});
+
+$(".operator").on("click", function () {
+
+  $("#operator").text(this.textContent);
+  operPicked = true;
+
+  savedOper = $(this).val();
+
+});
+
+$(".equal").on("click", function () {
+
+  firstNumber = parseInt(firstNumber);
+  secondNumber = parseInt(secondNumber);
+
+  if(savedOper === "plus") {
+    result = firstNumber + secondNumber;
+  }
+  else if(savedOper === "minus") {
+    result = firstNumber - secondNumber;
+  }
+  else if(savedOper === "times") {
+    result = firstNumber * secondNumber;
+  }
+  else if(savedOper === "divide") {
+    result = firstNumber / secondNumber;
+  }
+  else if(savedOper === "power") {
+    result = firstNumber ** secondNumber;
+  }
+  performedCalc = true;
+
+  $("#result").text(result);
+
+});
+
+$(".clear").on("click", function () {
+  
+    $("#first-number").empty();
+    $("#second-number").empty();
+    $("#result").empty();
+    $("#operator").empty();
+    initialize();
+});
 
 });
 

@@ -50,7 +50,8 @@
 </style>
 
 <body>
-  <div id="display"></div>
+  <div id="display">
+  </div>
   <div id="buttons"></div>
   <button id="clear">clear</button>
 
@@ -69,6 +70,15 @@
       // 1. Create a for-loop to iterate through the letters array.
 
       // Inside the loop...
+      for (var i=0; i<letters.length; i++) {
+        var letterBtn = $("<button>");
+        
+          $(letterBtn).attr("class", "letter-button letter letter-button-color");
+          $(letterBtn).attr("data-letter", letters[i]);
+          $(letterBtn).text(letters[i]);
+          $("#buttons").append(letterBtn);
+        }
+
 
       // 2. Create a variable named "letterBtn" equal to $("<button>");
 
@@ -87,6 +97,18 @@
 
       // 7. Create an "on-click" event attached to the ".letter-button" class.
 
+        $(".letter-button").on("click", function () {
+          var fridgeMagnet = $("<div>" + "</div>");
+
+            $(fridgeMagnet).attr("class", "letter fridge-color");
+            fridgeMagnet.text($(this).attr("data-letter"));
+
+            $(fridgeMagnet).appendTo("#display");
+            /*$("#display").append(fridgeMagnet)*/
+            /* the above line works also in reverse*/
+
+        });
+
       // Inside the on-click event...
 
       // 8. Create a variable called "fridgeMagnet" and set the variable equal to a new div.
@@ -103,6 +125,10 @@
       // =================================================================================
 
       // 12. Create an "on-click" event attached to the "#clear" button id.
+
+      $("#clear").on("click", function () {
+        $("#display").empty();
+      });
 
       // Inside the on-click event...
 

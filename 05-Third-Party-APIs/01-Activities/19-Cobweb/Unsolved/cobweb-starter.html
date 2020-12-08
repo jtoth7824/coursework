@@ -36,9 +36,23 @@
 
 // Create the code necessary to print each of the following lines using the object above:
 // "I found my glasses!"
+var object;
+
+object = theCobWeb.biggestWeb.biggerWeb.items[0];
+alert("I found my " + object + "!");
+
 // "I found my toothbrush!"
+object = theCobWeb.biggestWeb.biggerWeb.smallerWeb.item;
+
+alert("I found my " + object + "!");
+
 // "I found my headphones!"
+object = theCobWeb.biggestWeb.otherBigWeb.item;
+alert("I found my " + object + "!");
+
 // "I found my homework!"
+object = theCobWeb.biggestWeb.biggerWeb.smallerWeb.tinyWeb.items[3];
+alert("I found my " + object + "!");
 
 
 // Bonus (Extra Hard): It's impossible to complete this in the allotted time. Take this home as a challenge and bring it back to your TA/Instructor for the solution.
@@ -50,6 +64,15 @@
 //    toenails it should give back tinyWeb
 //    headphones it should give back otherBigWeb
 // HINT: you should use recursion
+
+function returnWeb(toFind, Web) {
+
+  
+
+}
+
+
+returnWeb("wrapper", theCobWeb);
 
 </script>
 

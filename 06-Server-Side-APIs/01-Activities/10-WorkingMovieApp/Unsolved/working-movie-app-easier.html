@@ -49,20 +49,36 @@
           url: queryURL,
           method: "GET"
         }).then(function(response) {
-
+console.log(response);
           // Creates a div to hold the movie
+          var movieDiv = $("<div class='movie'>");
+
           // Retrieves the Rating Data
+          var rating = response.Rated;
+          console.log(rating);
           // Creates an element to have the rating displayed
+          var ratingEl = $("<p>");
           // Displays the rating
+            $(movieDiv).append("Rating: " + rating);
           // Retrieves the release year
+          var releaseDate = response.Released;
           // Creates an element to hold the release year
+          var yearEl = $("<p>");
           // Displays the release year
+          $(movieDiv).append("Release Date: " + releaseDate);
           // Retrieves the plot
+          var plot = response.Plot;
           // Creates an element to hold the plot
+          var plotDiv = $("<p>");
           // Appends the plot
+          $(movieDiv).append("Plot: " + plotDiv);
           // Creates an element to hold the image
+          var poster = response.Poster;
+          var image = $("<img>");
           // Appends the image
+          $(movieDiv).append(image);
           // Puts the entire Movie above the previous movies.
+            $("#movie-views").prepend(movieDiv);
         });
 
       }

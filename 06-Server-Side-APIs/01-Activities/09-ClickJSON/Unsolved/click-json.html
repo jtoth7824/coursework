@@ -40,6 +40,22 @@
 
         // YOUR CODE GOES HERE!!! HINT: You will need to create a new div in the html to hold the JSON.
 
+        // Here we construct our URL
+        var movie = $(this).attr("data-name");
+        
+        var queryURL = "https://www.omdbapi.com/?t=" + movie + "&apikey=trilogy";
+
+        $.ajax({
+          type: "GET",
+          url: queryURL,
+          success: function (response) {
+            var newMovie = $("<div>");
+            $(newMovie).text(JSON.stringify(response));
+            $("#movie-form").text(newMovie);
+          }
+        });
+
+
       }
 
       // Function for displaying movie data

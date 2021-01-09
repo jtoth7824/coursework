@@ -43,7 +43,14 @@
         // (this is necessary otherwise you will have repeat buttons)
 
         // Loop through the array of movies, then generate buttons for each movie in the array
+        $("#buttons-view").empty();
 
+        for(var i=0; i<movies.length; i++) {
+          var newBtn = $("<button>");
+            $(newBtn).text(movies[i]);
+          $("#buttons-view").append(newBtn);
+          
+        }
       }
 
       // This function handles events where the add movie button is clicked
@@ -54,7 +61,9 @@
         event.preventDefault();
 
         // Write code to grab the text the user types into the input field
+        var movieName = $("#movie-input").val().trim();
         // Write code to add the new movie into the movies array
+        movies.push(movieName);
 
         // The renderButtons function is called, rendering the list of movie buttons
         renderButtons();

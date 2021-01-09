@@ -12,32 +12,32 @@
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script type="text/javascript">
-    //
+    // listener event for click on cat-button 
     $("#cat-button").on("click", function() {
 
-      //
+      // giphy api url set to variable
       var queryURL = "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=cats&rating=pg";
 
-      //
+      // ajax function to make GET request
       $.ajax({
         url: queryURL,
         method: "GET"
       })
 
-      //
+      // consuming code that triggers after promise (Ajax function) is fulfilled
         .then(function(response) {
 
-        //
+        // set variable to specific field or object in the response
           var imageUrl = response.data.image_original_url;
 
-          //
+          // create variable to hold image tag
           var catImage = $("<img>");
 
-          //
+          // setting attributes for image tag
           catImage.attr("src", imageUrl);
           catImage.attr("alt", "cat image");
 
-          //
+          // each time function runs adds new image to beginning of id=images
           $("#images").prepend(catImage);
         });
     });

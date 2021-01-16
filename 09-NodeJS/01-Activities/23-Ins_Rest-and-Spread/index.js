@@ -1,8 +1,8 @@
 // without rest
-function add(x, y) {
-  return x + y;
-}
-console.log(add(1, 2, 3, 4, 5)); // => 3
+//function add(x, y) {
+//  return x + y;
+//}
+//console.log(add(1, 2, 3, 4, 5)); // => 3
 
 // 1. rest
 function add(...nums) {

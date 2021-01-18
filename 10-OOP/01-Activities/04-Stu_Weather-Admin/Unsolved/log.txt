@@ -1,0 +1,5 @@
+
+Name: john Location: toledo Date: 01-16-2021
+Name: bob Location: miami Date: 01-16-2021
+Name: bob Location: miami, Date: 01-16-2021
+Name: bob Location: miami,fl Date: 01-16-2021

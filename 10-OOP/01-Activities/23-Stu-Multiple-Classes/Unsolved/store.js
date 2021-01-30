@@ -2,7 +2,7 @@ class Store {
   constructor(name, stock) {
     this.name = name;
     this.stock = stock;
-    this.revenue = revenue;
+    this.revenue = 0;
   }
 
   printRevenue() {
@@ -15,12 +15,21 @@ class Store {
 
   processProductSale(name) {
     this.revenue = this.revenue + name.price;
-    this.count = this.count - 1;
+//    name.count = name.count - 1;
 
     if(this.stock ===0) {
-      console.log(`There are no more ${this.name}`);
+      console.log(`There are no more ${name}`);
+    }
+    else {
+      name.count = name.count -1;
     }
   }
+
+  replenishStock(name, count) {
+    this.stock = this.stock + name.count;
+  }
+
+
 }
 
 module.exports = Store;

@@ -1,0 +1,1001 @@
+position,artist,song,year,raw_total,raw_usa,raw_uk,raw_eur,raw_row
+1,"Bing Crosby","White Christmas",1942,39.9030,23.9290,5.7000,2.1850,0.5400
+2,"Bill Haley & his Comets","Rock Around the Clock",1955,36.5030,19.9610,7.4580,5.6630,0.7600
+3,"Celine Dion","My Heart Will Go On",1998,35.4050,12.6360,8.9440,23.7010,3.6100
+4,"Sinead O'Connor","Nothing Compares 2 U",1990,35.1350,14.5820,10.2420,23.7470,2.7330
+5,"The Beatles","Hey Jude",1968,34.4420,25.5450,16.3900,16.5410,1.5100
+6,"Bryan Adams","(Everything I Do) I Do it For You",1991,34.3670,16.5230,12.3680,23.1940,3.1210
+7,"Whitney Houston","I Will Always Love You",1992,34.1120,14.8730,11.2900,20.7530,4.4600
+8,"Pink Floyd","Another Brick in the Wall (part 2)",1980,32.0200,13.0810,13.3390,23.3470,1.5530
+9,"Irene Cara","Flashdance... What a Feeling",1983,31.3050,15.1800,11.1150,17.8030,2.6860
+10,"Elton John","Candle in the Wind '97",1997,31.0540,7.4120,12.3940,20.3580,3.1890
+11,"The Rolling Stones","(I Can't Get No) Satisfaction",1965,31.0540,22.9260,10.2580,11.2520,0.5560
+12,Coolio,"Gangsta's Paradise",1995,30.8220,11.0360,8.0730,22.9880,1.0730
+13,Eminem,"Lose Yourself",2002,30.5540,12.9940,7.1430,15.6900,2.0830
+14,Cher,Believe,1998,30.0650,9.4180,10.8940,20.8880,1.8720
+15,Usher,Yeah!,2004,29.5350,14.6470,8.4000,13.7270,1.0000
+16,"The Beatles","Let it Be",1970,29.4430,16.8810,13.2340,15.8880,2.2310
+17,"Procol Harum","A Whiter Shade of Pale",1967,29.4280,12.0180,15.6020,16.8330,0.5580
+18,"Bee Gees","Stayin' Alive",1978,29.3470,16.1600,12.8740,17.8650,0.5710
+19,"Leona Lewis","Bleeding Love",2008,29.3160,9.5120,10.0500,16.3240,1.0760
+20,"The Police","Every Breath You Take",1983,28.9760,17.9050,11.4340,10.7740,1.1770
+21,"Kim Carnes","Bette Davis Eyes",1981,28.9190,16.1840,7.2890,19.7350,1.5000
+22,"Rihanna & Jay-Z",Umbrella,2007,28.6530,11.1170,8.8330,14.7060,1.6110
+23,"George Harrison","My Sweet Lord",1971,27.5980,11.7050,14.6440,18.0020,1.0850
+24,Abba,"Dancing Queen",1976,27.5820,13.6300,14.3910,16.4010,0.5370
+25,"P Diddy & Faith Evans","I'll Be Missing You",1997,27.5430,6.8400,8.9200,21.6600,2.7710
+26,"Britney Spears","Baby One More Time",1999,27.4870,6.9370,10.6290,22.0050,1.8530
+27,"The Beatles","I Want to Hold Your Hand",1964,27.4700,23.0420,9.1710,8.1920,1.0100
+28,"Michael Jackson","Billie Jean",1983,27.3950,12.3990,11.7370,19.0100,1.0100
+29,"Bobby Darin","Mack the Knife",1959,27.3300,19.3600,5.5830,3.7400,0.5500
+30,"John Travolta & Olivia Newton-John","You're the One That I Want",1978,26.7900,8.0460,14.9920,22.1450,0.5550
+31,"USA For Africa","We Are the World",1985,26.6810,10.8550,13.6270,18.7610,1.5100
+32,Hanson,Mmmbop,1997,26.5740,6.8040,9.4000,16.6250,3.5480
+33,Madonna,Vogue,1990,26.5040,9.5860,8.3530,17.7400,2.7010
+34,"Spice Girls",Wannabe,1996,26.3290,6.7560,10.2100,20.2600,1.7400
+35,"Roy Orbison","Oh, Pretty Woman",1964,26.3090,16.8590,11.6990,10.4130,0.0100
+36,Eminem,"Without Me",2002,26.2250,8.2660,8.0850,15.4310,2.2330
+37,"The Village People",YMCA,1978,25.9510,8.8850,13.5740,20.6660,0.6530
+38,"Stevie Wonder","I Just Called to Say I Love You",1984,25.9390,8.7600,13.4160,24.3930,0.8330
+39,"George Michael","Careless Whisper",1984,25.8900,12.4390,13.2170,16.4670,0.7500
+40,"John Lennon",Imagine,1971,25.7320,14.5670,17.9780,9.7550,1.1190
+41,Survivor,"Eye of the Tiger",1982,25.7080,12.2650,13.2640,11.5370,0.5540
+42,"Los Del Rio",Macarena,1996,25.6870,9.3130,5.2530,18.2400,3.0930
+43,"Elvis Presley","Are You Lonesome Tonight?",1960,25.6570,12.0570,9.1980,7.5900,0.0100
+44,UB40,"Can't Help Falling in Love",1993,25.5870,8.8140,8.7370,16.1230,3.0320
+45,OutKast,"Hey Ya!",2003,25.5430,13.6450,4.4830,9.7780,1.9720
+46,Queen,"Bohemian Rhapsody",1976,25.4680,11.8190,19.7800,9.5720,0.5380
+47,"Barbra Streisand","A Woman in Love",1980,25.3650,8.1260,10.2990,23.3770,0.5110
+48,"Katy Perry","I Kissed A Girl",2008,25.3650,6.0040,9.7670,16.3080,0.5910
+49,"Judy Garland","Over the Rainbow",1939,25.2910,17.1590,3.0000,0.7000,0.0000
+50,"Elvis Presley","It's Now Or Never",1960,25.2540,9.7890,11.6250,6.5870,0.6670
+51,"No Doubt","Don't Speak",1997,25.1420,6.6870,9.3950,18.5220,1.6730
+52,"Shakira & Wyclef Jean","Hips don't lie",2006,25.0900,8.2960,6.8330,18.4960,1.2820
+53,"50 Cent","In Da Club",2003,25.0130,10.5760,8.1670,11.6430,0.5180
+54,"Kylie Minogue","Can't Get You Out of My Head",2001,24.9650,5.8930,8.6030,21.5740,1.9280
+55,"The Black Eyed Peas","Where is the Love?",2003,24.9450,6.8860,8.4000,15.9680,1.5500
+56,"The Rolling Stones",Angie,1973,24.6020,8.7930,9.2670,16.6860,1.0330
+57,"Mungo Jerry","In the Summertime",1970,24.3450,8.9630,13.3180,17.7060,0.5470
+58,"Vaughn Monroe","(Ghost) Riders in the Sky",1949,24.3240,12.3710,6.0000,0.5300,0.5830
+59,"Lady GaGa","Poker Face",2009,24.2700,8.6190,9.1910,18.3330,0.5710
+60,"Ace of Base","The Sign",1994,24.2020,9.2740,6.9500,12.4050,3.8330
+61,"Carl Douglas","Kung Fu Fighting",1974,24.1440,7.8820,13.7980,16.1920,0.5870
+62,"Justin Timberlake",Sexyback,2006,24.0620,9.0800,7.8500,10.2180,2.5710
+63,Madonna,"Hung Up",2005,23.9350,6.4520,5.5520,19.7780,2.6500
+64,"Elvis Presley","Jailhouse Rock",1957,23.8270,13.3120,6.2940,4.5370,0.0100
+65,"The Beatles",Help!,1965,23.8200,12.6650,9.8320,9.8090,0.5210
+66,"Joan Jett & The Blackhearts","I Love Rock 'n' Roll",1982,23.7390,13.4220,10.5380,9.4520,0.5290
+67,"Ricky Martin","Livin' La Vida Loca",1999,23.7290,9.0860,7.9420,9.1230,3.5150
+68,"The Monkees","I'm a Believer",1967,23.6290,15.5250,14.7690,8.6380,0.5390
+69,Shakira,"Whenever, Wherever",2002,23.6200,3.5430,8.7530,20.7570,1.7150
+70,"Rihanna & Calvin Harris","We Found Love",2011,23.3730,10.5890,6.5830,6.5630,0.0000
+71,"Frank Sinatra","Strangers in the Night",1966,23.3480,15.4840,8.0490,11.8040,0.5910
+72,"Bruce Springsteen","Streets of Philadelphia",1994,23.2340,9.0770,5.0330,20.5240,1.5530
+73,"The Righteous Brothers","Unchained Melody",1965,23.1990,15.6160,9.2390,7.0750,1.1010
+74,All-4-One,"I Swear",1994,23.1630,8.3480,8.4060,14.5800,1.8070
+75,"Glenn Miller","In the Mood",1940,23.1530,13.6660,1.5000,2.6220,0.5830
+76,"Lou Bega","Mambo No 5 (A Little Bit of ...)",1999,23.0680,3.5430,9.7350,22.0740,1.6570
+77,"Doris Day","Que sera sera (Whatever will be will be)",1956,23.0580,10.6910,6.5290,4.2870,0.5630
+78,"Flo-Rida & T-Pain",Low,2008,23.0530,12.4110,9.6000,2.8870,0.8330
+79,"Nat King Cole","Mona Lisa",1950,23.0020,16.2230,2.5000,1.0980,0.5670
+80,"Terry Jacks","Seasons in the Sun",1974,23.0000,8.1300,14.1170,15.1530,0.0100
+81,"Culture Club","Karma Chameleon",1983,22.9670,7.1640,15.8180,15.8980,0.5290
+82,Aerosmith,"I Don't Want to Miss a Thing",1998,22.9600,7.6090,6.5040,17.0430,1.7480
+83,Blondie,"Heart of Glass",1979,22.9290,11.9650,14.4940,13.5010,0.5200
+84,"Boyz II Men","End of the Road",1992,22.8980,12.2870,7.9050,8.6560,2.5670
+85,"The Fugees","Killing Me Softly With His Song",1996,22.8610,3.6200,8.4390,23.0860,1.6860
+86,"Tony Orlando & Dawn","Tie a Yellow Ribbon 'round the Old Oak Tree",1973,22.8580,12.3390,15.2190,6.9330,0.5930
+87,Fergie,"Big Girls Don't Cry",2007,22.6150,8.6950,8.5000,7.3000,2.0200
+88,"Shocking Blue",Venus,1970,22.5350,9.3660,12.3200,14.3200,1.1180
+89,Eagles,"Hotel California",1977,22.5320,17.3330,6.8620,8.9900,1.0850
+90,"Bing Crosby","Swinging On a Star",1944,22.4680,15.7610,2.2000,0.5710,0.5160
+91,"The Beatles","All You Need is Love",1967,22.4480,9.4150,13.0040,11.9300,0.5310
+92,"Chubby Checker","The Twist",1960,22.4200,19.0390,4.7160,1.6000,0.5670
+93,"Nelly & Kelly Rowland",Dilemma,2002,22.4010,7.3230,6.0110,15.3610,1.4100
+94,"The Beatles","She Loves You",1964,22.3980,15.7360,10.6260,6.8800,0.6770
+95,Beyonce,"Crazy in Love",2003,22.1390,10.0300,3.6320,10.2820,2.6510
+96,"The Black Eyed Peas","I Gotta Feeling",2009,22.1260,8.0740,9.0000,14.4760,0.5670
+97,"John Lennon","(Just Like) Starting Over",1980,22.0940,11.8930,10.5580,10.6740,1.1870
+98,"Culture Club","Do You Really Want to Hurt Me?",1982,22.0650,5.6700,9.9880,19.0350,0.5500
+99,"Brandy & Monica","The Boy is Mine",1998,22.0260,9.2280,5.8110,10.4570,2.5970
+100,Madonna,"Like a Prayer",1989,21.9920,9.6170,9.0060,18.4340,2.0260
+101,"Sean Kingston","Beautiful Girls",2007,21.9630,5.2740,9.2000,8.2920,2.8500
+102,Prince,"When Doves Cry",1984,21.9020,16.0900,8.1100,6.3760,0.5230
+103,"The Beatles",Yesterday,1965,21.8790,16.5340,4.3190,9.0830,1.0100
+104,"The Pussycat Dolls","Don't Cha",2005,21.8640,4.9570,9.5000,12.4370,2.0590
+105,"Bee Gees","Night Fever",1978,21.8540,11.4440,10.4370,10.4060,1.5000
+106,"Diana Ross","Upside Down",1980,21.7350,11.1520,7.7830,15.7260,0.5270
+107,Madonna,Music,2000,21.6880,7.2460,7.0930,14.2840,2.6620
+108,Nickelback,"How You Remind Me",2002,21.6370,10.6300,4.6210,8.4060,1.5890
+109,Archies,"Sugar Sugar",1969,21.6130,17.3180,9.9900,10.9670,0.6350
+110,"Christina Aguilera, Lil' Kim, Mya & Pink","Lady Marmalade (Voulez-Vous Coucher Aver Moi Ce Soir?)",2001,21.5570,6.8630,7.8340,14.1750,1.3890
+111,A-Ha,"Take On Me",1985,21.5270,9.1770,6.9790,20.9590,0.5660
+112,"Las Ketchup","The Ketchup Song (Asereje)",2002,21.4800,1.2450,9.1000,21.7830,1.3500
+113,"The Beatles","Get Back",1969,21.4310,12.5430,13.5300,12.0110,0.6770
+114,"Rob Thomas & Santana",Smooth,1999,21.3970,13.7080,3.9090,3.7270,2.0590
+115,Snow,Informer,1993,21.3440,5.2390,7.1680,17.8390,2.8130
+116,"Timbaland & OneRepublic",Apologize,2007,21.2610,6.7290,6.0000,15.7110,0.5240
+117,t.A.T.u.,"All the Things She Said",2003,21.2610,3.3810,7.0360,15.1840,2.8570
+118,"Take That","Back For Good",1995,21.1400,2.4140,9.5190,15.8520,2.0900
+119,"The Beatles","Hello, Goodbye",1967,21.0840,7.5740,11.5040,11.5200,1.0490
+120,Chicago,"If You Leave Me Now",1976,21.0720,7.8200,12.9470,12.5640,0.8330
+121,Aqua,"Barbie Girl",1997,21.0120,3.1720,8.9820,19.6150,1.0590
+122,"Gnarls Barkley",Crazy,2006,20.9830,8.2480,5.9630,12.7390,1.0790
+123,Blondie,"Call Me",1980,20.9560,16.6320,7.0550,8.2310,0.5240
+124,"Whitney Houston","I Wanna Dance With Somebody (Who Loves Me)",1987,20.9020,7.3080,10.0930,17.1320,0.5260
+125,"Elton John & Kiki Dee","Don't Go Breaking My Heart",1976,20.8830,7.3870,15.2890,10.8220,0.6670
+126,"Ace of Base","All That She Wants",1993,20.8740,5.4640,6.5140,17.7790,2.7430
+127,"Boney M","Rivers of Babylon",1978,20.8730,0.7340,14.0150,22.2880,0.5260
+128,"Michael Jackson","Black Or White",1991,20.8630,6.3030,8.5420,18.0880,2.6340
+129,"Simon & Garfunkel","Bridge Over Troubled Water",1970,20.8630,20.3740,10.5420,5.5210,0.6770
+130,Chic,"Le Freak",1979,20.8570,13.2490,11.5780,9.6430,0.7600
+131,TLC,"No Scrubs",1999,20.8180,7.5980,8.9850,8.1960,2.0670
+132,"Nancy Sinatra","These Boots Are Made For Walking",1966,20.7990,10.2660,13.4350,8.6240,0.5100
+133,"Ray Charles","I Can't Stop Loving You",1962,20.7770,14.4120,7.0940,3.3880,0.7500
+134,"Meat Loaf","I'd Do Anything For Love (But I Won't Do That)",1993,20.7510,5.0830,10.1090,16.7900,0.5370
+135,"Chubby Checker","Let's Twist Again",1961,20.7440,6.1270,4.6920,10.6690,0.8330
+136,"Percy Faith","Theme From 'A Summer Place'",1960,20.7390,15.6080,3.6490,2.3330,1.5000
+137,LMFAO,"Party Rock Anthem",2011,20.7220,8.5410,7.5000,5.0500,0.0000
+138,"James Blunt","You're Beautiful",2005,20.7190,7.5550,4.0000,14.7650,2.3730
+139,"Don McLean","American Pie",1972,20.7020,17.7120,11.5880,4.0610,0.5100
+140,"Ben E King","Stand By Me",1961,20.6840,14.5430,5.3600,5.0540,0.0100
+141,"Bryan Adams, Rod Stewart & Sting","All For Love",1994,20.6220,5.2140,6.6000,19.3490,1.7570
+142,Pink,"So What",2008,20.6070,5.2550,8.5000,11.7030,0.5180
+143,"Phil Collins","Another Day in Paradise",1989,20.5840,8.6670,5.0050,20.8070,3.0330
+144,"Paul McCartney & Stevie Wonder","Ebony & Ivory",1982,20.4970,7.8660,8.1330,14.8550,0.5830
+145,"Lady GaGa & Colby O'Donis","Just Dance",2008,20.4590,7.5560,7.7430,9.1120,0.6250
+146,"Eiffel 65","Blue (Da Ba Dee)",1999,20.4480,2.4570,9.4550,22.1020,0.5560
+147,"Petula Clark",Downtown,1965,20.4470,13.2740,7.5040,7.6320,0.5370
+148,"Michael Jackson","Beat It",1983,20.3260,9.9480,7.0760,15.0680,0.6250
+149,"The Human League","Don't You Want Me",1982,20.2940,7.9540,12.2980,8.0470,1.0320
+150,"Rick Astley","Never Gonna Give You Up",1987,20.2850,5.9410,13.0560,13.9670,0.5320
+151,Londonbeat,"I've Been Thinking About You",1990,20.2690,5.1810,5.2500,20.6150,1.7150
+152,"The Kingston Trio","Tom Dooley",1958,20.2030,9.1070,5.0250,7.2560,0.0000
+153,"Bing Crosby & The Andrews Sisters","Don't Fence Me In",1944,20.0520,10.8290,4.5000,0.7000,0.5180
+154,Berlin,"Take My Breath Away",1986,20.0340,10.7790,6.9620,11.1140,1.0000
+155,Beyonce,Irreplaceable,2006,20.0270,11.5140,5.7930,5.4320,1.1680
+156,Nirvana,"Smells Like Teen Spirit",1992,19.9170,11.1650,4.4520,13.1010,1.9780
+157,U2,"Beautiful Day",2000,19.8890,7.5540,6.5360,13.3190,1.5120
+158,"Dinah Shore","Buttons & Bows",1948,19.8510,9.6040,4.5000,0.5110,0.5370
+159,"Avril Lavigne",Girlfriend,2007,19.8340,5.8230,6.5000,7.0910,3.5480
+160,"George McCrae","Rock Your Baby",1974,19.7990,7.4860,7.8580,15.0270,0.5660
+161,"Gloria Gaynor","I Will Survive",1979,19.7270,15.0350,8.9660,7.6010,0.6670
+162,"Mariah Carey","Without You",1994,19.6610,4.4020,6.3180,19.5230,1.7330
+163,Abba,Waterloo,1974,19.5440,6.3990,7.0070,17.4250,0.0100
+164,"Les Paul & Mary Ford","Vaya Con Dios (may God Be With You)",1953,19.5250,12.5680,2.8430,1.5100,0.7000
+165,"Vanilla Ice","Ice Ice Baby",1990,19.4870,5.5160,7.9690,13.9220,1.1140
+166,"Anton Karas","Third Man Theme",1950,19.4800,9.0780,5.2500,1.5910,0.5430
+167,Abba,Fernando,1976,19.4700,3.4340,13.0960,16.4650,0.0100
+168,"R Kelly","I Believe I Can Fly",1997,19.4480,7.8630,5.9020,11.5730,1.0370
+169,"Avril Lavigne",Complicated,2002,19.4320,5.4690,6.4190,10.9290,2.1740
+170,"The Beatles","Penny Lane",1967,19.3650,12.4570,11.0650,7.6240,0.5630
+171,"Eminem & Rihanna","Love The Way You Lie",2010,19.3530,5.3230,7.0000,6.5670,0.0000
+172,Adele,"Rolling In The Deep",2011,19.3220,11.2360,3.2000,5.2000,0.0000
+173,"Doris Day","Secret Love",1954,19.3180,12.2030,5.1430,0.5190,0.5590
+174,"Olivia Newton-John","(Let's Get) Physical",1981,19.3080,12.7690,6.2370,8.9450,1.0000
+175,"Boyz II Men","I'll Make Love to You",1994,19.2910,9.5440,5.8250,4.4040,3.0770
+176,"Madonna & Justin Timberlake","Four Minutes",2008,19.2710,4.0560,6.5670,14.3550,0.5320
+177,"Bryan Adams","Have You Ever Really Loved a Woman?",1995,19.2500,6.0980,5.2500,13.9900,1.3750
+178,"MC Hammer","U Can't Touch This",1990,19.2350,6.9390,5.8330,13.1900,2.0470
+179,"Gotye & Kimbra","Somebody That I Used to Know",2012,19.2260,8.0990,5.5000,7.0000,0.0000
+180,Starsound,"Stars On 45",1981,19.1730,5.9470,10.1000,15.3110,0.5110
+181,"Lipps Inc",Funkytown,1980,19.1170,9.7950,7.3110,17.9640,0.0000
+182,"Nat King Cole","Too Young",1951,19.1080,12.7770,3.0000,0.5330,0.6430
+183,"The Backstreet Boys","I Want it That Way",1999,19.0960,5.5360,4.3130,16.3740,2.1560
+184,"Celine Dion","Because You Loved Me",1996,19.0830,9.5540,4.2000,6.0370,2.6440
+185,Falco,"Rock Me Amadeus",1986,19.0490,5.4620,10.5830,16.5670,0.5500
+186,"Bruno Mars",Grenade,2011,19.0470,7.7910,6.5480,5.0240,0.0000
+187,"The Beach Boys","Good Vibrations",1966,19.0030,17.4340,10.1200,7.0980,0.0000
+188,"Bee Gees","(The Lights Went Out In) Massachusetts",1967,19.0020,2.5070,8.7630,11.3800,2.5730
+189,"Dionne Warwick & Friends","That's What Friends Are For",1986,19.0020,13.2480,7.2050,4.2230,0.6000
+190,"The Animals","House of the Rising Sun",1964,18.9680,14.9820,8.0210,5.4140,0.5910
+191,"Britney Spears",Toxic,2004,18.9410,7.0780,7.0210,9.0140,1.1720
+192,"Cyndi Lauper","Girls Just Wanna Have Fun",1984,18.9270,9.5570,9.9440,10.4770,0.5670
+193,Pink,"Get the Party Started",2002,18.8950,5.6070,6.5360,10.5300,1.6520
+194,"Tennessee Ernie Ford","Sixteen Tons",1955,18.8430,11.5090,5.0010,0.8330,0.6430
+195,"Mary Hopkin","Those Were the Days",1968,18.8400,7.7280,9.3430,13.2410,1.0910
+196,"The Beatles","I Feel Fine",1964,18.8370,9.8130,10.8260,6.6710,0.5630
+197,"Jo Stafford","You Belong to Me",1952,18.8370,12.1500,8.0100,0.0000,0.0000
+198,"The Beatles","Paperback Writer",1966,18.8330,10.5220,10.0840,8.3310,0.5100
+199,"Lynn Anderson","I Beg Your Pardon (I Never Promised You a Rose Garden)",1971,18.8070,7.8720,11.4460,11.4120,0.5670
+200,"Tina Turner","What's Love Got to Do With It?",1984,18.8070,11.8450,8.4550,7.4170,0.5190
+201,"Band Aid","Do They Know It's Christmas?",1984,18.7910,3.7560,13.6380,17.7710,0.5260
+202,"The Rolling Stones","Honky Tonk Woman",1969,18.7880,15.8730,11.7920,6.9020,0.5290
+203,"Mariah Carey & Boyz II Men","One Sweet Day",1995,18.7850,9.1430,5.1970,4.6310,1.8900
+204,"Roberta Flack","Killing Me Softly With His Song",1973,18.7050,14.3070,9.8520,3.9260,0.6670
+205,"Katy Perry","Hot 'n' cold",2008,18.6410,5.2900,3.9130,15.7780,0.5560
+206,TLC,Waterfalls,1995,18.6310,10.1700,3.3950,7.4230,1.2310
+207,Roxette,"It Must Have Been Love",1990,18.6110,5.6330,5.9620,13.7900,2.0990
+208,"Bee Gees",Tragedy,1979,18.6070,6.8300,11.8310,14.5760,0.6250
+209,"The Beatles","A Hard Day's Night",1964,18.5810,10.2000,11.4080,5.7640,0.6670
+210,"Los Lobos","La Bamba",1987,18.5460,7.1790,10.5590,11.0130,0.5370
+211,"The Chordettes","Mister Sandman",1954,18.5330,13.9940,5.0910,0.0000,0.5370
+212,"Rod Stewart","Maggie May",1971,18.5010,16.3060,11.7470,3.6920,0.6110
+213,"Phil Collins","A Groovy Kind of Love",1988,18.4760,5.1020,8.9690,13.0100,1.1560
+214,"Zager & Evans","In the Year 2525 (Exordium & Terminus)",1969,18.4630,9.3380,11.0540,12.0220,0.5150
+215,"Mariah Carey",Fantasy,1995,18.4630,6.4510,6.2920,5.9320,2.6530
+216,"George Michael",Faith,1987,18.4550,9.4460,7.3980,10.8780,0.5260
+217,Foreigner,"I Want to Know What Love Is",1985,18.4500,6.9710,13.0400,11.3160,0.5830
+218,"Elvis Presley","Heartbreak Hotel",1956,18.4480,15.5360,2.2950,1.1630,0.5270
+219,"Beyonce & Shakira","Beautiful Liar",2007,18.4390,3.8760,5.5200,13.9730,1.4170
+220,"Elvis Presley","Suspicious Minds",1969,18.4230,14.4560,14.5700,5.6530,0.5220
+221,"Elton John","Crocodile Rock",1973,18.4100,8.6010,8.1500,10.0920,0.5630
+222,Madonna,"Papa Don't Preach",1986,18.3980,6.3180,9.1400,15.3310,0.5140
+223,"Toni Braxton","Un-Break My Heart",1996,18.3730,6.7800,2.9250,13.1760,2.6280
+224,"The Black Eyed Peas","Shut Up",2003,18.3720,1.2830,6.5630,19.5240,0.7000
+225,"Eric Clapton","Tears in Heaven",1992,18.3510,10.9590,5.7050,5.5460,2.0960
+226,"Carly Simon","You're So Vain",1973,18.3040,12.9070,10.9500,3.9110,0.5210
+227,"Will Smith","Men in Black",1997,18.2950,2.2990,8.0690,15.2500,1.8500
+228,Evanescence,"Bring Me to Life",2003,18.2760,5.5430,4.0000,13.2370,1.6870
+229,"Diana Ross & Lionel Richie","Endless Love",1981,18.2540,15.3660,6.4350,3.8650,0.7000
+230,"David Bowie","Let's Dance",1983,18.2470,7.1220,9.0420,19.8810,0.0000
+231,"Steve Miller Band",Abracadabra,1982,18.2230,7.6910,7.8380,11.3700,0.5180
+232,"Wet Wet Wet","Love is All Around",1994,18.2030,1.0490,9.7670,16.6300,1.7720
+233,Akon,Lonely,2005,18.1950,3.5960,6.5830,13.8930,1.6700
+234,"Michael Jackson","You Are Not Alone",1995,18.1870,4.5820,6.2920,13.5480,1.1270
+235,"Christina Aguilera","Genie in a Bottle",1999,18.1720,5.5760,4.0860,16.1340,1.5680
+236,"Everything But The Girl",Missing,1996,18.1670,5.4810,4.3290,15.9310,1.5810
+237,"Savage Garden","Truly Madly Deeply",1998,18.1370,6.9050,7.1550,7.5520,1.7090
+238,"The Mills Brothers","Paper Doll",1943,18.0930,12.5300,1.0000,0.8330,0.5270
+239,"Bobby McFerrin","Don't Worry Be Happy",1988,18.0520,7.1350,5.4500,13.3460,1.0860
+240,"Bee Gees","How Deep is Your Love?",1978,18.0300,10.4450,7.9360,7.9830,1.2110
+241,"Alicia Keys",Fallin',2001,18.0180,8.1030,2.8540,12.6640,1.0740
+242,Eamon,"F**k it (I Don't Want You Back)",2004,18.0020,2.8950,7.0340,16.2640,0.5200
+243,Shaggy,Boombastic,1995,17.9730,4.0050,7.3750,12.2970,1.0460
+244,"Patti Page","Tennessee Waltz",1950,17.9100,13.9690,3.0000,0.0000,0.5300
+245,"Frankie Goes To Hollywood",Relax,1984,17.8580,5.6640,9.4890,17.4090,0.5250
+246,"Lady GaGa","Bad Romance",2009,17.8470,8.4460,5.1380,12.2020,0.5120
+247,"Elvis Presley","Hound Dog",1956,17.8400,14.8920,1.6670,1.6080,0.5690
+248,Madonna,Frozen,1998,17.7890,4.5790,2.7770,16.7050,2.5440
+249,"Christina Aguilera",Beautiful,2003,17.7770,5.3640,8.0270,7.0840,1.0300
+250,Chumbawamba,Tubthumping,1997,17.7660,4.3240,9.4880,7.3840,1.5830
+251,"Fats Domino","Blueberry Hill",1956,17.7090,11.5730,0.6670,4.5760,0.5140
+252,"Elvis Presley & JXL","A Little Less Conversation",2002,17.6740,1.8210,10.0290,10.9920,1.3550
+253,"Domenico Modugno",Volare,1958,17.6700,9.7190,4.4670,3.0290,0.7000
+254,"Alicia Keys","No One",2007,17.6320,8.3530,2.2880,10.2070,2.0670
+255,"Donna Summer","Hot Stuff",1979,17.6190,13.0750,6.3010,9.2900,0.5120
+256,"The Pet Shop Boys","West End Girls",1986,17.6150,7.7040,9.5570,8.2520,1.0340
+257,"The Bangles","Walk Like an Egyptian",1986,17.5800,9.6340,7.6020,8.3700,0.5200
+258,"Mariah Carey","We Belong Together",2005,17.5560,12.1290,3.0500,4.6340,1.1010
+259,"Daniel Powter","Bad Day",2005,17.5390,8.8480,3.0670,6.1940,3.0000
+260,"Four Non Blondes","What's Up?",1993,17.5090,4.1080,4.1010,20.5050,1.8110
+261,"Janet Jackson","That's the Way Love Goes",1993,17.4950,7.3040,6.6250,4.2690,2.8600
+262,Queen,"Another One Bites the Dust",1980,17.4810,13.7780,4.9960,7.7580,0.5360
+263,"Carly Rae Jepsen","Call Me Maybe",2012,17.4700,7.7460,6.0000,4.4440,0.0000
+264,"J Geils Band",Centrefold,1982,17.4280,11.2470,7.9190,4.1800,0.5290
+265,"Nelly Furtado & Timbaland",Promiscuous,2006,17.4240,8.3930,5.5330,6.4500,1.0560
+266,"Patrick Hernandez","Born to Be Alive",1979,17.4200,4.1940,9.0500,19.0930,0.5410
+267,"Culture Beat","Mr Vain",1993,17.4190,2.8970,6.3430,18.7880,1.5770
+268,U2,"With Or Without You",1987,17.4020,10.3260,5.3850,9.0730,0.7000
+269,Rihanna,"Don't Stop the Music",2007,17.3750,4.7510,3.3330,16.6770,0.5230
+270,Seal,"Kiss From a Rose",1995,17.3710,9.8270,3.8010,4.5300,1.2330
+271,"Bon Jovi",Always,1994,17.3710,5.3160,5.1700,13.6100,1.9930
+272,"Bryan Adams","Please Forgive Me",1993,17.3690,3.3900,7.8120,13.4880,1.8290
+273,"Pat Boone","Speedy Gonzales",1962,17.3670,2.9330,3.5740,10.2820,0.5210
+274,"Tears For Fears",Shout,1985,17.3670,6.4130,9.3840,14.4320,0.5160
+275,"Bonnie Tyler","Total Eclipse of the Heart",1983,17.3360,6.3710,13.2510,7.7960,0.5210
+276,Wham!,"Wake Me Up Before You Go Go",1984,17.3230,6.2880,10.5690,12.9180,0.5210
+277,"The Crew-Cuts","Sh-Boom (Life Could Be a Dream)",1954,17.3100,10.1180,3.4790,1.8940,0.5770
+278,"Green Day","Boulevard of Broken Dreams",2005,17.2870,11.5580,1.2280,6.8040,1.8360
+279,"The Beatles","Yellow Submarine",1966,17.2380,8.0790,12.5020,9.2920,0.0000
+280,"Bill Medley & Jennifer Warnes","(I've Had) the Time of My Life",1987,17.2360,8.9220,8.6710,6.1820,0.8330
+281,"Bon Jovi","Blaze of Glory",1990,17.1950,7.7780,5.6880,8.1700,1.7320
+282,Eminem,Stan,2000,17.1910,3.6810,6.7350,18.8940,0.5560
+283,"The Platters","Smoke Gets in Your Eyes",1959,17.1020,5.0390,8.1730,3.4900,0.8330
+284,"Lionel Richie","Say You, Say Me",1985,17.0690,9.7930,6.6250,9.7080,0.5670
+285,"Mr Big","To Be With You",1992,17.0510,5.0490,6.4790,15.8050,1.7770
+286,"Simon & Garfunkel","The Sounds of Silence",1966,17.0330,15.0060,3.6280,3.8730,2.7780
+287,"Harry Nilsson","Without You",1972,17.0130,10.7400,13.8490,2.9420,0.6110
+288,"Men At Work","Down Under",1982,16.9880,6.9660,12.5420,8.8540,0.0000
+289,"Sheryl Crow","All I Wanna Do",1994,16.8680,9.5340,4.7870,4.1850,1.7980
+290,Rednex,"Cotton Eye Joe",1994,16.8650,3.8250,4.9260,17.2560,1.6230
+291,"The Rolling Stones","Jumpin' Jack Flash",1968,16.8620,11.3710,8.6160,9.0520,0.5130
+292,UB40,"Red Red Wine",1983,16.8390,6.2260,11.7680,6.7420,1.2140
+293,"Soft Cell","Tainted Love",1981,16.7840,6.6440,12.9200,11.2350,0.0000
+294,"LeAnn Rimes","Can't Fight the Moonlight",2001,16.7650,3.6240,8.7530,12.0740,0.5400
+295,"Shaggy & Ricardo 'RikRok' Ducent","It Wasn't Me",2001,16.7580,3.9110,6.5710,13.3990,1.2140
+296,"Teresa Brewer","(Put Another Nickel In) Music! Music! Music!",1950,16.7170,9.1670,6.0000,0.0000,0.5160
+297,"Dexys Midnight Runners","Come On Eileen",1982,16.6880,6.6150,14.1060,6.8420,0.0000
+298,"Bruno Mars","Just the Way You Are",2010,16.6630,6.3550,6.6250,3.0250,0.0000
+299,"Rocco Granata",Marina,1960,16.6590,0.7320,0.6250,13.3330,0.5210
+300,"Jennifer Lopez","If You Had My Love",1999,16.6420,4.8140,5.8090,11.4600,1.7060
+301,"David Guetta & Akon","Sexy Chick (sexy Bitch)",2009,16.6380,4.7510,7.7500,11.3230,0.5110
+302,"Britney Spears","Oops!... I Did it Again",2000,16.5980,3.7510,6.5380,15.4450,1.3560
+303,"Lady GaGa","Born This Way",2011,16.5970,4.2470,5.9580,6.5320,0.0000
+304,"N Sync","Bye, Bye, Bye",2000,16.4760,5.8650,6.5330,9.2270,1.5950
+305,"Donna Summer","I Feel Love",1977,16.4700,9.0330,7.1920,13.9330,0.0000
+306,"Lionel Richie","All Night Long (All Night)",1983,16.4460,7.3490,8.7120,9.5610,0.5530
+307,Dido,"White Flag",2003,16.4460,3.6060,4.0000,15.9530,0.6250
+308,"Les Brown & Doris Day","Sentimental Journey",1945,16.4400,13.5940,0.0000,0.5270,0.5230
+309,"The Byrds","Mr Tambourine Man",1965,16.4200,13.3950,5.6740,4.6910,0.5250
+310,"Gerry Rafferty","Baker Street",1978,16.4060,7.1480,10.0140,8.9660,0.5260
+311,"Jennifer Lopez & Pitbull","On The Floor",2011,16.4040,4.6740,5.1000,6.7500,0.0000
+312,"Elvis Presley","All Shook Up",1957,16.3470,9.9710,5.6490,1.6260,0.0100
+313,"The Beatles","Ticket to Ride",1965,16.3190,9.9670,8.8350,6.6030,0.0000
+314,"Natalie Imbruglia",Torn,1998,16.3120,3.8850,4.9490,13.1660,1.9840
+315,REM,"Losing My Religion",1991,16.2950,11.6680,2.1230,10.3040,1.5970
+316,Haddaway,"What is Love?",1993,16.2860,4.8280,3.7510,18.7000,1.0550
+317,"Scott McKenzie","San Francisco (Wear Some Flowers in Your Hair)",1967,16.2800,4.3810,8.5600,10.2870,0.5870
+318,"The Andrews Sisters","Rum & Coca-Cola",1945,16.2790,10.3100,1.5000,0.6670,0.5530
+319,U2,"I Still Haven't Found What I'm Looking For",1987,16.2690,11.5190,4.3990,5.6420,0.6000
+320,Roxette,Joyride,1991,16.2580,4.1520,4.3270,19.3100,2.5910
+321,"Billy Swan","I Can Help",1975,16.2540,7.6660,6.9550,15.3750,0.0000
+322,"Robert Miles",Children,1996,16.2530,2.2930,3.5440,21.4600,1.1870
+323,"The Goo Goo Dolls",Iris,1998,16.2520,7.5620,5.5440,6.0310,1.1290
+324,Shaggy,Angel,2001,16.2200,3.8520,5.7520,15.5360,0.5560
+325,"Nelly Furtado","Say It Right",2007,16.2150,6.8350,2.6400,12.6390,0.5380
+326,"Otis Redding","(Sittin' On) the Dock of the Bay",1968,16.2110,18.3510,4.3050,5.3870,0.5200
+327,"Sam The Sham & The Pharaohs","Wooly Bully",1965,16.1770,15.3260,1.5910,6.4910,0.5220
+328,"Elvis Presley","Don't Be Cruel",1956,16.1500,14.3510,0.5420,1.6410,0.5530
+329,"Kris Kross",Jump,1992,16.1420,6.2750,6.0670,10.9620,1.7990
+330,Abba,SOS,1975,16.1220,3.4410,9.0310,11.6290,1.0330
+331,OutKast,"Ms Jackson",2001,16.1100,6.0910,2.0710,16.1790,0.5500
+332,"Bonnie Tyler","It's a Heartache",1978,16.0890,5.3000,9.0040,12.1680,0.5130
+333,"The Rolling Stones","Paint it Black",1966,16.0550,11.7020,7.7580,8.5310,0.0000
+334,"The Everly Brothers","Cathy's Clown",1960,16.0500,9.1070,5.1740,3.3100,0.5200
+335,"Katy Perry & Snoop Dogg","California Gurls",2010,16.0490,5.8280,6.7000,2.9050,0.0000
+336,"Maroon 5 & Christina Aguilera","Moves Like Jagger",2011,16.0210,5.3470,6.3330,4.5830,0.0000
+337,"Bee Gees","Too Much Heaven",1979,15.9980,6.2090,10.0830,11.3090,0.8330
+338,"Dick Haymes","You'll Never Know",1943,15.9810,11.2690,0.8330,0.5170,0.5560
+339,"The Beatles","Come Together",1969,15.9710,11.7720,8.4370,8.1160,0.5170
+340,"The Knack","My Sharona",1979,15.9640,12.0780,7.1020,6.4830,0.5240
+341,Lobo,"I'd Love You to Want Me",1973,15.9250,5.0060,10.5750,8.7000,0.0100
+342,"The Black Eyed Peas","Boom Boom Pow",2009,15.9220,7.9730,5.3500,7.3090,0.6430
+343,"The Monkees","Daydream Believer",1967,15.9210,9.3670,10.7740,4.2150,1.5590
+344,"Kanye West & Jamie Foxx","Gold Digger",2005,15.9160,9.7800,4.6560,2.6860,1.1100
+345,"John Lennon",Woman,1981,15.8600,6.6380,9.7740,7.0470,1.0950
+346,"Jefferson Starship","Nothing's Gonna Stop Us Now",1987,15.8490,7.3880,7.8690,8.3120,0.5280
+347,"Phil Collins","Against All Odds (Take a Look At Me Now)",1984,15.8120,7.6820,7.9100,9.8570,0.5310
+348,"Scatman John","Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",1995,15.8000,1.0500,2.8330,19.1670,3.0110
+349,"The Black Eyed Peas","Don't Phunk With My Heart",2005,15.7930,4.3590,4.4100,9.5870,2.5480
+350,Nena,"99 Red Balloons",1983,15.7910,5.1590,10.1400,16.2740,0.0000
+351,"Elvis Presley",Surrender,1961,15.7840,4.7160,8.6020,5.2170,0.6530
+352,"Gene Autry","Rudolph, the Red-Nosed Reindeer",1949,15.7790,12.6040,1.5000,0.0000,0.0100
+353,Oasis,Wonderwall,1996,15.7690,6.2660,6.5480,7.4760,0.5630
+354,"The Tornados",Telstar,1962,15.7680,5.0200,8.7450,6.5040,0.0000
+355,Queen,"Crazy Little Thing Called Love",1980,15.7620,9.3690,8.4190,5.5230,0.8330
+356,"Katy Perry",Firework,2010,15.7600,9.1920,4.3750,1.2920,0.0000
+357,Rihanna,"Only girl (in the world)",2010,15.7590,5.4780,6.6430,3.0590,0.0000
+358,"Paul McCartney & Michael Jackson","Say Say Say",1983,15.7510,6.5820,6.4060,12.7470,0.5220
+359,U2,Desire,1988,15.7380,4.6000,8.0000,8.4620,1.5000
+360,"Kanye West",Stronger,2007,15.7040,8.3650,5.0530,2.4870,1.6700
+361,"The Righteous Brothers","You've Lost That Lovin' Feelin'",1964,15.6980,19.7390,5.4990,1.6890,0.0100
+362,"Michael Jackson & Janet Jackson",Scream,1995,15.6970,4.2530,2.8610,12.5620,2.5410
+363,"Elvis Presley","Return to Sender",1962,15.6710,7.1720,9.5030,4.5670,0.0000
+364,"Norman Greenbaum","Spirit in the Sky",1970,15.6690,11.1410,10.0220,9.0650,0.0000
+365,Prince,"The Most Beautiful Girl in the World",1994,15.6660,4.6510,6.0570,9.6980,1.8400
+366,"Nat King Cole",Unforgettable,1951,15.6590,9.4770,5.0120,0.5160,0.0000
+367,"Boney M","Ma Baker",1977,15.6550,1.2230,4.2920,21.0320,0.5260
+368,Wings,"Mull of Kintyre",1977,15.6370,1.2400,13.8080,15.8090,0.0000
+369,Offspring,"Pretty Fly (For a White Guy)",1999,15.6340,1.7590,5.9030,13.1780,2.8450
+370,Madonna,"Like a Virgin",1984,15.6300,9.0120,7.5270,6.5460,0.6430
+371,"The Mamas & The Papas","Monday Monday",1966,15.6240,13.3220,4.9070,6.0550,0.5290
+372,"Buddy Holly","That'll Be the Day",1957,15.6170,13.1250,5.0160,0.5770,0.0000
+373,"Gwen Stefani","Hollaback Girl",2005,15.6070,9.2860,2.6590,6.8380,1.0470
+374,"Destiny's Child","Lose My Breath",2004,15.6020,5.3700,3.0310,9.3280,2.5530
+375,Madonna,"Take a Bow",1995,15.5930,6.7760,2.0630,7.4880,2.7980
+376,"Johnnie Ray",Cry,1951,15.5870,13.5380,1.5000,0.5150,0.0000
+377,"Del Shannon",Runaway,1961,15.5840,10.5270,7.6300,1.4500,0.5430
+378,"Janet Jackson","Together Again",1998,15.5730,4.0830,3.2300,13.6720,2.0450
+379,"Paul Anka",Diana,1957,15.5610,3.9900,7.5630,3.1700,0.5730
+380,"Jerry Lee Lewis","Great Balls of Fire",1957,15.5490,8.8880,4.5670,3.6790,0.0000
+381,"Guns n' Roses","Sweet Child O' Mine",1988,15.5480,11.4140,1.7360,3.8160,1.1810
+382,"Flo-Rida & Ke$ha","Right Round",2009,15.5420,5.6930,6.7000,8.7740,0.5210
+383,"Elvis Presley","(Now & then There's) A Fool Such As I",1959,15.5250,5.6720,9.0050,3.3060,0.0000
+384,10CC,"I'm Not in Love",1975,15.5240,6.3940,7.3090,8.2230,1.3920
+385,"Anita Ward","Ring My Bell",1979,15.5090,6.8240,8.3830,11.8010,0.5910
+386,"Rod Stewart","Do Ya Think I'm Sexy?",1979,15.4830,8.6830,8.8960,8.6520,0.5280
+387,"Taio Cruz",Dynamite,2010,15.4640,5.6720,6.8330,2.3330,0.0000
+388,"Jason Mraz","I am Yours",2008,15.4630,6.4540,3.8020,9.0010,0.5420
+389,Mario,"Let Me Love You",2005,15.4540,6.4880,3.3330,11.6480,0.5530
+390,Enigma,Sadeness,1991,15.4340,3.2030,4.0040,21.7690,1.8380
+391,Snap,"Rhythm is a Dancer",1992,15.4250,4.9690,4.8440,18.9290,0.6250
+392,M,"Pop Muzik",1979,15.4180,7.0140,9.7620,14.7420,0.0000
+393,"Alanis Morissette",Ironic,1996,15.4130,7.0260,3.1430,8.3520,1.5800
+394,"Lionel Richie",Hello,1984,15.4040,4.9760,10.0770,11.5870,0.5340
+395,"Johnny Horton","Battle of New Orleans",1959,15.4000,13.5940,4.7320,0.5710,0.0000
+396,"Bon Jovi","Livin' On a Prayer",1987,15.3590,7.3760,5.5090,7.8930,1.5000
+397,"Enrique Iglesias",Hero,2001,15.3570,3.1320,8.4820,9.2500,1.0410
+398,"The Sweet","The Ballroom Blitz",1973,15.3530,5.7920,11.4540,8.6240,0.0000
+399,Ke$ha,Tik-Toc,2009,15.3510,9.6940,5.8610,6.4170,0.0000
+400,"Timbaland & Keri Hilson","The Way I Are",2007,15.3310,4.0000,6.5910,8.1780,0.5110
+401,"Phil Collins","In the Air Tonight",1981,15.3290,5.6510,7.2830,15.7240,0.0000
+402,"Frank Sinatra","Five Minutes More",1946,15.3130,7.0140,4.5000,0.5910,0.5310
+403,"Vanessa Carlton","A Thousand Miles",2002,15.2980,5.8430,3.1670,7.3420,2.2140
+404,"Al Jolson",Swanee,1920,15.2970,11.3480,0.0000,0.5450,0.7000
+405,"Al Martino","Here in My Heart",1952,15.2920,7.9620,8.1150,0.0000,0.0000
+406,"Kid Rock","All summer long",2008,15.2890,3.9240,5.1000,13.9120,0.0000
+407,"Van Halen",Jump,1984,15.2850,8.5890,5.2200,8.8060,1.0370
+408,"Peter Gabriel",Sledgehammer,1986,15.2850,9.5770,4.1550,7.9520,0.5190
+409,Adele,"Someone Like You",2011,15.2740,4.8510,5.3500,5.2500,0.0000
+410,"Fifth Dimension","Aquarius/Let The Sunshine In",1969,15.2550,17.6960,6.4830,3.2470,0.7500
+411,"Gordon Jenkins & The Weavers","Goodnight, Irene",1950,15.2410,11.5350,4.6000,0.0000,0.0000
+412,Roxette,"The Look",1989,15.2020,5.2970,4.9780,17.0190,1.5290
+413,"F R David",Words,1982,15.1870,0.5160,6.0010,23.2950,0.0000
+414,"Sixpence None The Richer","Kiss Me",1999,15.1610,6.5350,4.8930,5.3750,1.8850
+415,"Irene Cara",Fame,1980,15.1590,9.6560,7.0860,6.3330,0.5230
+416,"Tommy James & the Shondells","Crimson & Clover",1969,15.1470,9.7220,8.9500,8.0380,0.5710
+417,"Fine Young Cannibals","She Drives Me Crazy",1989,15.1360,8.1770,6.4070,9.7570,1.2840
+418,"Led Zeppelin","Whole Lotta Love",1970,15.1060,12.4780,8.0550,8.7090,0.0000
+419,"Michael Jackson","Don't Stop 'Til You Get Enough",1979,15.0970,8.6600,8.7670,7.8670,0.5830
+420,"Hot Butter",Popcorn,1972,15.0660,4.0600,5.9440,16.3520,0.0000
+421,"The Bangles","Eternal Flame",1989,15.0550,5.7570,7.7590,10.8750,1.6000
+422,Santana,"Maria Maria",2000,15.0470,5.3830,2.1670,15.6070,1.1050
+423,"Captain & Tennille","Love Will Keep Us Together",1975,15.0230,12.1710,7.8850,1.2670,0.5530
+424,"Billy Ocean","Get Outta My Dreams Get Into My Car",1988,14.9640,3.9430,9.2300,9.0290,0.5190
+425,"Perez Prado","Cherry Pink & Apple Blossom White",1955,14.9460,6.8340,3.5050,2.5000,0.7500
+426,"Ini Kamoze","Here Comes the Hotstepper",1995,14.9450,5.6880,3.6000,9.6140,1.0820
+427,"The Box Tops","The Letter",1967,14.9340,15.6210,6.2740,5.8690,0.0000
+428,"Pee Wee Hunt","12th Street Rag",1948,14.9140,7.4830,4.5000,0.0000,0.5270
+429,"Kool & The Gang",Celebration,1981,14.8960,11.8370,6.2070,3.2050,0.5320
+430,"The Platters","Only You (And You Alone)",1955,14.8960,7.4750,0.7000,4.2950,0.7500
+431,Exile,"Kiss You All Over",1978,14.8860,6.6190,9.5000,7.2660,0.5590
+432,"The Kinks",Lola,1970,14.8830,9.3430,9.2670,6.5070,0.5100
+433,"Bachman-Turner Overdrive","You Ain't Seen Nothin' Yet",1974,14.8760,8.5240,10.5620,7.9000,0.0000
+434,"All Saints","Never Ever",1998,14.8580,3.0850,9.2690,7.4870,1.0610
+435,"The Four Seasons","December 1963 (Oh What a Night)",1976,14.8550,9.9850,8.8280,4.1440,0.5910
+436,"Tears For Fears","Everybody Wants to Rule the World",1985,14.8510,7.2490,8.5820,6.0790,1.0580
+437,"Al Dexter & his Troopers","Pistol Packin' Mama",1943,14.8500,12.5520,0.0000,0.5120,0.5120
+438,Snap,"The Power",1990,14.8500,5.3360,2.5010,14.0950,1.7250
+439,"Richard Marx","Right Here Waiting",1989,14.8330,4.6280,8.0630,9.2900,2.6050
+440,"Pat Boone","Love Letters in the Sand",1957,14.8280,5.7670,6.6250,2.1240,0.5240
+441,"The Rolling Stones","Brown Sugar",1971,14.8100,11.5640,6.8290,6.3980,0.5140
+442,Akon,"Smack That",2006,14.7860,4.8190,5.0380,8.3480,1.0650
+443,"Nat King Cole","Nature Boy",1948,14.7790,11.4200,0.0000,0.5110,0.5770
+444,Coldplay,"Viva La Vida",2008,14.7680,7.5180,2.7800,11.4820,0.0000
+445,"Paul & Paula","Hey Paula",1963,14.7330,6.8900,6.2990,3.7050,0.5170
+446,Kingsmen,"Louie Louie",1963,14.7290,14.7620,4.4240,0.0000,0.5240
+447,"The Ronettes","Be My Baby",1963,14.7200,14.6080,3.2600,1.3610,0.0000
+448,"The Manhattans","Kiss & Say Goodbye",1976,14.7160,8.7240,6.3170,7.9040,0.5290
+449,"Three Dog Night","Joy to the World",1971,14.6980,17.0420,6.8860,1.6190,0.5540
+450,"Olivia Newton-John & Electric Light Orchestra",Xanadu,1980,14.6790,3.1230,4.5550,16.4650,0.5630
+451,"Elvis Presley","Can't Help Falling in Love",1962,14.6780,9.8200,7.6500,1.1240,0.5140
+452,"Marvin Gaye","I Heard it Through the Grapevine",1968,14.6670,18.9240,5.8890,1.6200,0.5170
+453,"Red Hot Chili Peppers","Under the Bridge",1992,14.6660,9.0330,4.1000,6.9110,1.0370
+454,"Elvis Presley","In the Ghetto",1969,14.6230,9.1120,10.5030,10.0350,0.0000
+455,"Perry Como","Don't Let the Stars Get in Your Eyes",1953,14.5820,10.0370,6.5040,0.0000,0.0000
+456,"The Doors","Light My Fire",1967,14.5650,17.4350,6.4250,4.2400,0.0000
+457,"The Beatles","The Ballad of John & Yoko",1969,14.5480,4.9310,7.5010,11.9090,0.5300
+458,"The Eurythmics","Sweet Dreams (Are Made of This)",1983,14.5400,9.4650,5.7100,9.6900,0.0000
+459,"The Beatles","Can't Buy Me Love",1964,14.5370,9.1560,8.8350,3.7830,0.6210
+460,"Dean Martin","Memories Are Made of This",1956,14.5340,6.0020,6.5030,1.0610,0.5170
+461,"The Drifters","Save the Last Dance For Me",1960,14.5330,9.3440,7.1910,2.3550,0.0000
+462,"Neil Young","Heart of Gold",1972,14.5100,12.1000,5.3070,5.1710,0.5110
+463,"Jennifer Lopez","Love Don't Cost a Thing",2001,14.5060,2.7250,5.5230,10.8790,2.0530
+464,"The Scissor Sisters","I Don't Feel Like Dancin'",2006,14.4830,0.7390,3.7000,16.1480,1.5670
+465,"Jive Bunny & The Mastermixers","Swing the Mood",1989,14.4750,2.3650,7.9710,15.1190,1.6450
+466,"Kitty Kallen","Little Things Mean a Lot",1954,14.4740,10.4450,6.5360,0.0000,0.0000
+467,Madonna,"Who's That Girl?",1987,14.4720,4.5570,6.1690,13.6920,0.5340
+468,"Tom Jones","She's a Lady",1971,14.4510,8.3470,7.6590,7.7070,0.5270
+469,Extreme,"More Than Words",1991,14.4390,6.4280,5.6260,7.8180,2.1360
+470,"Nancy Sinatra & Frank Sinatra","Somethin' Stupid",1967,14.4350,9.3420,11.5200,3.5870,0.6000
+471,"Right Said Fred","I'm Too Sexy",1991,14.4350,5.7740,7.4030,5.0830,2.2780
+472,"Vera Lynn","Auf Wiederseh'n Sweetheart",1952,14.4320,8.7630,6.6000,0.0000,0.0000
+473,"Creedence Clearwater Revival","Proud Mary",1969,14.4290,14.7520,6.2300,4.8620,0.5560
+474,U2,"Hold Me, Thrill Me, Kiss Me, Kill Me",1995,14.4250,2.6920,6.8130,9.3950,0.7500
+475,"Glenn Miller","Moonlight Serenade",1939,14.4200,8.5780,0.5830,1.0970,0.5530
+476,"Crash Test Dummies","Mmm Mmm Mmm Mmm",1994,14.4090,4.8500,4.1130,12.3220,1.0310
+477,"Creedence Clearwater Revival","Up Around the Bend",1970,14.3940,8.3520,8.1010,7.5050,0.5130
+478,Rihanna,Disturbia,2008,14.3900,6.5680,2.8790,8.4170,0.6110
+479,"Elton John","Something About the Way You look Tonight",1997,14.3610,4.2450,6.2880,7.4000,1.1150
+480,"Bobby Goldsboro",Honey,1968,14.3400,10.8580,13.1350,2.7080,0.5410
+481,Eminem,"Just Lose It",2004,14.3400,3.6130,5.0320,8.2480,1.8640
+482,"Musical Youth","Pass the Dutchie",1982,14.3390,3.1660,10.4930,11.8290,0.0000
+483,Chicago,"Hard to Say I'm Sorry",1982,14.3260,6.6100,5.4210,8.6240,0.5450
+484,"Joe Cocker & Jennifer Warnes","Up Where We Belong",1982,14.3110,10.7610,7.5950,3.4920,0.0000
+485,"Isaac Hayes","Theme From 'Shaft'",1971,14.2820,16.2980,3.8500,4.3010,0.5370
+486,"B J Thomas","Raindrops Keep Falling On My Head",1970,14.2780,15.2940,6.8680,2.6790,0.6250
+487,"John Fred & The Playboy Band","Judy in Disguise (With Glasses)",1968,14.2770,8.7760,5.5160,9.3390,0.5260
+488,"Pitbull, Ne-Yo, Afrojack & Nayer","Give Me Everything",2011,14.2700,6.3560,5.1430,3.0530,0.0000
+489,"Billy Joel","The River of Dreams",1993,14.2580,4.5910,4.8920,8.5060,2.0910
+490,"Joan Osborne","One of Us",1996,14.2320,5.8630,4.7530,6.3360,1.2770
+491,"Lisa Stansfield","All Around the World",1990,14.2140,4.9170,2.7510,12.8670,1.7520
+492,"Alannah Myles","Black Velvet",1990,14.2110,6.6420,2.5860,11.3740,1.1700
+493,Beyonce,"If I Were a Boy",2008,14.2100,3.4900,3.1230,12.3970,0.5220
+494,"Trini Lopez","If I Had a Hammer",1963,14.1990,3.6510,2.9510,7.5340,0.5210
+495,"Roberta Flack","The First Time Ever I Saw Your Face",1972,14.1730,12.8460,8.7550,0.6110,0.7500
+496,"Crazy Frog","Axel F",2005,14.1610,1.2700,7.4610,11.1480,0.5220
+497,"Elvis Presley","(You're The) Devil in Disguise",1963,14.1580,4.3740,5.3330,7.5090,0.0000
+498,"The Beatles","Lady Madonna",1968,14.1520,8.3980,10.0760,9.5520,0.0000
+499,"Dire Straits","Money For Nothing",1985,14.1520,8.5940,5.3500,5.3530,1.0720
+500,"Francis Craig","Near You",1947,14.1480,11.8450,0.0000,0.5120,0.5420
+501,"Elvis Presley","Good Luck Charm",1962,14.1230,6.4130,7.0820,5.0050,0.0000
+502,"Frankie Avalon",Venus,1959,14.1230,5.2720,4.7960,3.7080,0.5270
+503,"The Commodores","Three Times a Lady",1978,14.1170,7.1080,11.6300,2.7260,0.5370
+504,"Glenn Miller","Chattanooga Choo Choo",1941,14.1100,11.9360,0.0000,0.5190,0.5770
+505,"Mariah Carey","Vision of Love",1990,14.1060,7.6170,3.6110,3.5120,2.8460
+506,"Tony Orlando & Dawn","Knock Three Times",1971,14.1030,9.1170,10.9860,3.5870,0.5310
+507,"Amii Stewart","Knock On Wood",1979,14.0810,7.9750,6.7250,9.0680,0.5100
+508,"Les Paul & Mary Ford","How High the Moon",1951,14.0810,15.1490,0.0000,0.0000,0.5590
+509,"Percy Faith","The Song From Moulin Rouge (Where Is Your Heart)",1953,14.0570,10.1800,1.5000,0.5320,0.5670
+510,Abba,"The Winner Takes it All",1980,14.0520,5.5820,5.1110,11.6550,0.5330
+511,"The Carpenters","(They Long to Be) Close to You",1970,14.0290,14.3310,7.6670,2.5780,0.5340
+512,"Frankie Valli",Grease,1978,13.9970,8.1890,7.2140,5.9020,0.5500
+513,Rihanna,"SOS (Rescue Me)",2006,13.9910,5.7720,3.0770,8.9340,1.0830
+514,"Chris de Burgh","The Lady in Red",1986,13.9820,3.5340,9.7940,8.9720,0.8330
+515,"The Beatles","Strawberry Fields Forever",1967,13.9680,8.9990,7.3900,5.4560,0.6430
+516,Tiffany,"I Think We're Alone Now",1988,13.9610,4.3880,8.9170,6.2880,0.5110
+517,Duffy,Mercy,2008,13.9550,2.2040,3.5140,16.5710,0.0000
+518,"Rod Stewart","Tonight's the Night (Gonna Be Alright)",1976,13.9290,11.9670,5.7920,3.3450,0.5770
+519,"R Kelly",Ignition,2003,13.9190,6.0280,7.4500,0.5560,0.5320
+520,"Elton John","Goodbye Yellow Brick Road",1973,13.8890,10.3770,7.1310,2.6610,0.8330
+521,"Christina Aguilera","Ain't No Other Man",2006,13.8840,5.8910,2.4290,6.2890,2.5960
+522,D12,"My Band",2004,13.8730,3.9070,4.5430,7.5960,1.8870
+523,"Barbra Streisand","The Way We Were",1974,13.8620,17.2630,4.1990,0.5110,0.5190
+524,"Robin Thicke, T.I. & Pharrell Williams","Blurred Lines",2013,13.8610,8.4800,5.5000,3.7000,0.0000
+525,"The Sweet","Fox On the Run",1975,13.8600,5.4980,9.3350,9.5580,0.0000
+526,"C&C Music Factory","Gonna Make You Sweat (Everybody Dance Now)",1991,13.8520,7.3800,1.3770,11.5510,2.7670
+527,"Michael Jackson",Thriller,1984,13.8440,7.3940,3.1620,12.6310,0.5560
+528,Rihanna,"Take a Bow",2008,13.8430,5.6020,5.5400,4.7290,0.5380
+529,"Ray Parker Jr",Ghostbusters,1984,13.8270,6.8450,8.6220,10.9430,0.0000
+530,Enigma,"Return to Innocence",1994,13.8140,5.1850,2.8330,10.0300,2.0240
+531,"Bob Dylan","Like a Rolling Stone",1965,13.7880,15.6350,3.5570,2.2450,0.5110
+532,"Uncle Kracker","Follow Me",2001,13.7810,2.4540,7.3740,9.3770,1.0250
+533,"Gwen Stefani & Akon","The Sweet Escape",2007,13.7700,5.3670,3.1110,7.5010,1.5240
+534,"The Rolling Stones","Miss You",1978,13.7600,8.1930,5.4610,7.4830,0.5240
+535,"The Platters","The Great Pretender",1956,13.7520,11.7860,2.2000,1.7520,0.0000
+536,Champs,Tequila,1958,13.7330,9.6180,2.7770,1.3030,0.5340
+537,Wings,"Silly Love Songs",1976,13.6950,11.3800,6.6260,2.9090,0.5250
+538,"Plain White T's","Hey There Delilah",2007,13.6870,7.1400,3.0480,10.4980,0.0000
+539,"George Michael","Jesus to a Child",1996,13.6640,2.6420,5.5210,11.3280,1.2080
+540,INXS,"Need You Tonight",1988,13.6620,9.1130,2.7160,3.4460,1.0520
+541,"Amy Winehouse",Rehab,2007,13.6590,8.9640,0.6430,6.7120,1.3480
+542,"Mariah Carey",Dreamlover,1993,13.6460,7.7920,2.1110,2.9010,3.0330
+543,"Kate Bush","Wuthering Heights",1978,13.6430,1.7640,10.7770,10.4370,0.5250
+544,"The Four Tops","Reach Out (I'll Be There)",1966,13.6290,15.0970,3.7050,3.2990,0.5100
+545,"Babylon Zoo",Spaceman,1996,13.5980,0.2000,4.4630,20.1660,0.6430
+546,"New Vaudeville Band","Winchester Cathedral",1966,13.5970,8.9790,8.8350,3.8020,0.5220
+547,"Stevie Wonder",Superstition,1973,13.5960,14.3060,2.4410,3.4530,0.5160
+548,"Lauryn Hill","Doo Wop (That Thing)",1998,13.5930,7.6540,1.8580,2.4210,2.5530
+549,Eminem,"The Real Slim Shady",2000,13.5910,5.3710,4.1010,10.6170,0.5100
+550,Madonna,"Justify My Love",1990,13.5860,6.0370,3.0000,8.6440,1.8810
+551,"The B52s","Love Shack",1989,13.5850,8.9760,7.5700,2.4670,1.2280
+552,"Elton John","Can You Feel the Love Tonight",1994,13.5600,7.5350,2.0710,6.3540,1.7610
+553,"Al Green","Let's Stay Together",1972,13.5420,17.2930,2.9070,0.7500,0.5450
+554,"Diana King","Shy Guy",1995,13.5130,2.3630,2.0380,12.7140,3.0000
+555,"Jennifer Paige",Crush,1998,13.4920,3.9800,6.8240,7.5000,0.6110
+556,Prince,Batdance,1989,13.4870,4.7030,5.0560,9.8090,3.0000
+557,Kaoma,Lambada,1989,13.4810,1.7730,2.0710,21.6320,2.4580
+558,"The Beatles",Something,1969,13.4800,11.3430,10.9180,3.0030,0.5670
+559,"Patti LaBelle","Lady Marmalade (Voulez-Vous Coucher Aver Moi Ce Soir?)",1975,13.4750,11.5450,3.5480,5.3010,0.5260
+560,"The Everly Brothers","All I Have to Do is Dream",1958,13.4640,9.4980,6.5220,0.5360,0.0000
+561,Baccara,"Yes Sir, I Can Boogie",1977,13.4610,0.2000,5.6160,17.1610,0.5120
+562,"Boney M","Daddy Cool",1976,13.4590,1.2320,3.3890,20.4840,0.0000
+563,U2,Discotheque,1997,13.4380,1.5500,5.0000,10.2010,2.5720
+564,"Shania Twain","You're Still the One",1998,13.4370,7.5030,3.2720,2.2180,1.7510
+565,"George Michael & Elton John","Don't Let the Sun Go Down On Me",1992,13.4300,5.0890,3.5000,13.8620,1.3110
+566,"Britney Spears",Womanizer,2008,13.4130,5.1380,2.8580,9.0880,0.5260
+567,"The Kalin Twins",When,1958,13.4120,1.9560,6.8430,4.1320,0.5300
+568,Madonna,"This Used to Be My Playground",1992,13.4100,6.5820,2.8330,11.0200,1.5120
+569,"Little Eva","The Loco-Motion",1962,13.4060,11.1980,5.3440,2.2000,0.0000
+570,O-Zone,"Dragostea Din Tei",2004,13.4060,1.1140,2.3330,18.2350,0.7000
+571,"Rosemary Clooney","Hey There",1954,13.3950,11.3670,2.2500,0.0000,0.5320
+572,U2,Vertigo,2004,13.3880,3.6470,3.0000,8.0020,2.6580
+573,"Pras Michel","Ghetto Supastar (That is What You Are)",1998,13.3560,1.8480,5.9850,13.4250,0.5420
+574,"Bellamy Brothers","Let Your Love Flow",1976,13.3480,5.0750,4.3310,11.6360,0.5110
+575,"Andy Gibb","Shadow Dancing",1978,13.3480,10.8840,4.9740,3.2500,0.5770
+576,"Katy Perry","Teenage Dream",2010,13.3470,5.5190,4.6110,2.6800,0.0000
+577,"Britney Spears & Madonna","Me Against the Music",2003,13.3400,1.7450,4.5260,8.3850,2.5290
+578,"Destiny's Child",Survivor,2001,13.3390,4.9580,3.0000,7.1420,2.0230
+579,Europe,"The Final Countdown",1986,13.3120,2.4200,6.9950,19.5310,0.0000
+580,Madonna,"American Pie",2000,13.2980,1.7700,4.2790,15.4590,1.6670
+581,"Chris Montez","Let's Dance",1962,13.2940,4.8470,3.2690,5.7300,0.5120
+582,Shakira,"Underneath Your Clothes",2002,13.2910,3.0210,4.4050,11.3010,0.5370
+583,"Spice Girls","2 Become 1",1997,13.2640,3.8650,4.9780,6.8560,1.7000
+584,"Joe Dolce","Shaddup You Face",1981,13.2480,1.5900,9.7500,10.7260,0.5120
+585,Madonna,"Crazy For You",1985,13.2310,7.1350,8.2300,4.5740,0.5370
+586,"The Carpenters","Please Mr Postman",1975,13.2200,6.0700,10.4930,1.8020,0.5340
+587,"Will Smith","Wild Wild West",1999,13.2040,4.7330,2.2730,10.9240,1.2840
+588,Madonna,"La Isla Bonita",1987,13.1820,3.0490,4.6010,16.3260,0.5140
+589,Prince,Kiss,1986,13.1800,8.9260,2.5570,6.6150,0.5270
+590,"Janet Jackson","All For You",2001,13.1710,4.8900,2.3330,5.9510,2.8330
+591,"Tommy Roe",Dizzy,1969,13.1650,9.1720,8.7640,5.7470,0.5120
+592,"Red Hot Chili Peppers","Dani California",2006,13.1550,5.2010,1.5190,6.8030,3.0330
+593,"Kylie Minogue","The Loco-Motion",1988,13.1550,2.8220,8.5000,7.1870,1.0000
+594,"Depeche Mode","Enjoy the Silence",1990,13.1510,5.7650,2.1670,12.9530,0.5140
+595,"Vanessa Williams","Save the Best For Last",1992,13.1420,7.0190,4.4100,3.8820,1.9360
+596,"George Baker Selection","Una Paloma Blanca",1975,13.1370,1.0800,7.0580,14.2730,0.0100
+597,"Jennifer Lopez","Get Right",2005,13.1300,3.4040,3.5330,7.5580,2.5730
+598,"Gilbert O'Sullivan","Get Down",1973,13.1240,4.9280,5.2260,11.2920,0.0000
+599,"Bon Jovi","It's My Life",2000,13.1240,1.8800,1.3860,17.2700,2.5000
+600,Akon,"Don't Matter",2007,13.1090,5.3800,5.8490,3.3450,0.5530
+601,"Tony Bennett","Stranger in Paradise",1954,13.1080,6.7870,6.5040,0.0000,0.5260
+602,"Elton John",Nikita,1985,13.0970,2.1780,7.9790,14.7150,0.6110
+603,"Tom Jones",Delilah,1968,13.0970,3.3560,6.9710,13.9040,0.0000
+604,"Run DMC & Jason Nevins","It's Like That",1998,13.0900,1.2180,8.1530,15.0090,0.0000
+605,"John Lennon","Instant Karma",1970,13.0850,9.1210,4.6680,7.7580,0.5150
+606,"Glenn Miller","(I've Got a Gal In) Kalamazoo",1942,13.0730,10.8480,0.0000,0.5230,0.5160
+607,"The Scorpions","Wind of Change",1991,13.0700,4.4110,1.5000,20.0380,1.0610
+608,"Belinda Carlisle","Heaven is a Place On Earth",1988,13.0540,4.0030,7.8500,11.2200,0.0000
+609,"Neil Diamond","Cracklin' Rosie",1970,13.0490,8.8630,9.0350,4.2440,0.5370
+610,"Daniel Boone","Beautiful Sunday",1972,13.0400,3.1910,6.2140,8.5630,1.5000
+611,"Edwin Hawkins Singers","Oh Happy Day",1969,13.0380,10.0370,3.3200,11.4210,0.0000
+612,"Spice Girls","Say You'll Be There",1996,13.0370,3.9750,2.9020,11.4970,1.2130
+613,"Kenny Loggins",Footloose,1984,13.0330,8.3860,9.8950,3.1520,0.0000
+614,"Murray Head","One Night in Bangkok",1985,13.0310,4.1770,5.9000,17.7210,0.0000
+615,"Carole King","It's Too Late",1971,13.0290,17.0690,4.1730,0.8330,0.8330
+616,"Huey Lewis & The News","The Power of Love",1985,13.0100,7.9930,7.4040,3.3050,0.5110
+617,"Paula Abdul & The Wild Pair","Opposites Attract",1990,12.9930,4.9920,5.1430,5.8890,1.3610
+618,"Debbie Boone","You Light Up My Life",1977,12.9890,14.2720,5.5370,0.0000,0.8430
+619,"Steve Miller Band","The Joker",1974,12.9790,8.3030,8.1600,6.9780,0.0000
+620,"50 Cent & Olivia","Candy Shop",2005,12.9770,4.6060,1.2880,12.6980,1.0810
+621,"Bruce Springsteen","Dancing in the Dark",1984,12.9740,7.2200,6.5170,5.6740,0.5150
+622,"Billy Ocean","When the Going Gets Tough, the Tough Get Going",1986,12.9550,3.3180,11.1260,10.7890,0.0000
+623,"Conway Twitty","It's Only Make Believe",1958,12.9470,5.5000,6.3940,1.5430,0.5120
+624,"Paul Hardcastle",19,1985,12.9410,2.2970,7.4350,19.6420,0.0000
+625,"Roy Orbison","Only The Lonely (Know The Way I Feel)",1960,12.9340,9.4670,6.0840,1.4170,0.0000
+626,"The Black Eyed Peas","The Time (Dirty Bit)",2010,12.9300,2.6300,5.0360,5.0480,0.0000
+627,Queen,"We Are the Champions",1977,12.9250,9.1620,3.7190,6.5040,0.5630
+628,Coldplay,"Speed of Sound",2005,12.9240,4.6010,2.5000,6.8100,2.5820
+629,"Barry Ryan",Eloise,1968,12.9090,0.7140,8.4240,14.7380,0.0000
+630,Heart,"All I Wanna Do is Make Love to You",1990,12.9030,4.4690,4.7930,6.1500,1.9110
+631,"Harry Belafonte","Banana Boat Song",1957,12.8980,5.9460,1.5030,4.0740,0.5530
+632,"Aretha Franklin",Respect,1967,12.8960,22.1220,3.2170,1.1080,0.0000
+633,"The Backstreet Boys","Quit Playing Games (With My Heart)",1997,12.8930,4.2220,1.5000,13.6590,1.0670
+634,"Paul Anka","Lonely Boy",1959,12.8930,5.1620,2.9020,4.2010,0.5120
+635,"Duran Duran","A View to a Kill",1985,12.8910,5.8080,5.2500,14.6980,0.0000
+636,"Mr Acker Bilk","Stranger On the Shore",1962,12.8860,8.3260,7.6440,0.5590,0.5270
+637,"The Fray","How to Save a Life",2007,12.8830,6.7090,3.7060,4.9370,0.5120
+638,"Eric Clapton","Change the World",1996,12.8820,5.8460,2.5570,2.8230,3.0000
+639,"Brotherhood of Man","Save All Your Kisses For Me",1976,12.8680,0.5370,5.7650,15.6290,0.0100
+640,"Lloyd Price","(You've Got) Personality",1959,12.8680,6.5520,4.3940,2.0280,0.5230
+641,"Artie Shaw","Begin the Beguine",1938,12.8660,11.2310,0.0000,0.0000,0.5310
+642,"Billy Joel","Uptown Girl",1983,12.8460,5.4790,9.3830,4.1480,0.5710
+643,"Gilbert O'Sullivan","Alone Again (Naturally)",1972,12.8430,10.4200,5.4100,1.1030,2.0140
+644,Mika,"Grace Kelly",2007,12.8410,1.8090,4.1430,9.6840,1.3860
+645,"Leo Sayer","When I Need You",1977,12.8370,6.0900,9.5680,4.4000,0.6430
+646,"Cliff Richard","We Don't Talk Anymore",1979,12.8340,3.3270,8.0440,16.0630,0.0000
+647,"The Marcels","Blue Moon",1961,12.8280,6.3130,6.5910,2.0770,1.0000
+648,U2,One,1992,12.8270,6.9500,4.8490,6.5580,0.5270
+649,"Art Mooney","I'm Looking Over a Four Leaf Clover",1948,12.8170,8.6700,1.5000,0.0000,0.6430
+650,Madonna,"Live to Tell",1986,12.8140,5.8800,4.5000,9.6160,0.5190
+651,"John Travolta & Olivia Newton-John","Summer Nights",1978,12.8090,5.4860,7.1040,11.4940,0.0000
+652,"The Moody Blues","Nights in White Satin",1968,12.8070,9.8250,5.5470,9.2380,0.0000
+653,"The Everly Brothers","Bird Dog",1958,12.7970,5.8120,7.0030,2.3250,0.0000
+654,"Justin Timberlake","My Love",2006,12.7930,6.8410,3.0290,6.0740,0.5630
+655,"LeAnn Rimes","How Do I Live?",1998,12.7880,7.3960,2.5890,2.5830,1.5720
+656,"Ricky Nelson","Hello Mary Lou",1961,12.7700,5.1170,5.2530,6.0260,0.0000
+657,"Mariah Carey & Whitney Houston","When You Believe",1998,12.7600,4.7460,0.7500,10.1830,2.0120
+658,"The Beatles","We Can Work it Out",1966,12.7590,10.4530,8.6030,4.3670,0.0000
+659,"Soul Asylum","Runaway Train",1993,12.7550,5.8330,2.6470,9.7910,1.0650
+660,"Santa Esmerelda","Don't Let Me Be Misunderstood",1977,12.7540,3.9810,2.2620,13.9610,0.6670
+661,"Kylie Minogue","I Should Be So Lucky",1988,12.7410,0.7360,8.8280,11.7070,0.5290
+662,"Jennifer Lopez","Jenny From the Block",2002,12.7180,3.1820,2.3330,8.7060,2.5730
+663,Beyonce,"Single Ladies (Put A Ring On It)",2009,12.7150,9.4970,2.4140,2.7390,0.5910
+664,"Guy Mitchell","Singing The Blues",1956,12.7090,6.6130,6.5130,0.7500,0.0000
+665,"The Verve","Bitter Sweet Symphony",1997,12.7080,6.5590,2.5510,7.2570,0.5380
+666,Psy,"Gangnam Style",2012,12.6890,3.5410,4.0000,6.8330,0.0000
+667,"The Temptations","My Girl",1965,12.6880,17.6690,2.6140,0.5530,0.5630
+668,Bananarama,Venus,1986,12.6770,4.6790,6.4250,9.1600,0.5190
+669,"The Rubettes","Sugar Baby Love",1974,12.6760,1.7800,5.4490,14.5880,0.0000
+670,"Lady GaGa & Beyonce",Telephone,2010,12.6670,5.2400,3.5500,3.4190,0.0000
+671,"Artie Shaw",Frenesi,1940,12.6610,10.0720,0.0000,0.5140,0.6000
+672,"Jimmy Dorsey",Tangerine,1942,12.6530,8.6620,0.5830,0.5120,0.6110
+673,"Big Mountain","Baby, I Love Your Way",1994,12.6430,4.2150,2.5580,9.1510,2.3330
+674,Lifehouse,"Hanging by a Moment",2001,12.6430,7.3960,3.5400,1.0800,1.0410
+675,Emilia,"Big Big World",1998,12.6400,1.0240,1.2000,19.7240,1.1180
+676,"The Backstreet Boys","Shape of My Heart",2000,12.6330,1.6550,3.7500,12.4280,2.6220
+677,"The Beach Boys",Kokomo,1988,12.6280,6.0160,3.1180,3.0600,2.5320
+678,"Glenn Miller","Moonlight Cocktail",1942,12.6130,8.7150,0.5910,0.5180,0.5200
+679,"Justin Timberlake","What Goes Around Comes Around",2007,12.6070,7.1390,1.2820,7.1160,1.0350
+680,"Perez Prado",Patricia,1958,12.6030,4.8170,4.1890,3.0420,0.5340
+681,"Percy Sledge","When a Man Loves a Woman",1966,12.5900,15.7150,5.2660,2.9300,0.0000
+682,"Chuck Berry","Johnny B Goode",1958,12.5820,12.7380,1.2700,0.5830,0.0000
+683,"Donna Summer","Love to Love You Baby",1976,12.5810,8.1800,3.8750,7.2890,0.5180
+684,"Snoop Dogg & Pharrell Williams","Drop it Like It's Hot",2004,12.5650,7.4720,2.6290,4.9530,0.5310
+685,"Destiny's Child","Independent Women Part 1",2000,12.5590,4.3750,4.2740,8.6510,1.1390
+686,"Ringo Starr",Photograph,1973,12.5570,6.0650,10.2220,5.1770,0.0000
+687,"The Beatles","Day Tripper",1965,12.5450,5.1000,7.9600,3.5150,0.5530
+688,"Maroon 5","She Will Be Loved",2004,12.5450,5.5140,3.0830,6.4170,1.0930
+689,"Glen Campbell","Rhinestone Cowboy",1975,12.5240,9.7860,7.7500,3.4920,0.0000
+690,"Sandie Shaw","Puppet On a String",1967,12.5190,0.2000,8.7380,10.7300,0.0000
+691,"Creedence Clearwater Revival","Bad Moon Rising",1969,12.5160,11.7260,10.5910,4.4770,0.0000
+692,"Phil Collins","Two Hearts",1988,12.5030,5.4740,2.6670,6.0870,2.0500
+693,Kiss,"I Was Made For Lovin' You",1979,12.5030,4.8320,9.1000,12.0050,0.0000
+694,Christie,"Yellow River",1970,12.4990,3.4390,7.7700,8.3830,0.7000
+695,"Macy Gray","I Try",2000,12.4990,4.4720,7.5890,4.2630,0.6000
+696,"Louis Armstrong","Hello Dolly",1964,12.4910,11.8510,3.6360,3.1250,0.5590
+697,"Percy Faith",Delicado,1952,12.4840,7.8870,2.0500,0.5380,0.6670
+698,"Bing Crosby","Pennies From Heaven",1936,12.4770,10.7780,0.0000,0.5310,0.0000
+699,"Sheena Easton","Morning Train (Nine to Five)",1981,12.4590,7.2230,8.9760,2.1550,0.5240
+700,"Mariah Carey",Honey,1997,12.4560,5.0370,2.3330,4.9940,2.6990
+701,"Cyndi Lauper","Time After Time",1984,12.4550,6.9760,4.3340,6.3380,1.0630
+702,"Color Me Badd","I Wanna Sex You Up",1991,12.4500,5.4350,4.5470,5.7400,2.5690
+703,"Tina Turner","We Don't Need Another Hero (Thunderdome)",1985,12.4450,4.2280,7.0000,14.8320,0.0000
+704,"Barbra Streisand","Love Theme From 'A Star is Born' (Evergreen)",1977,12.4420,11.3220,5.6690,1.0640,0.5360
+705,"Frankie Laine","Mule Train",1949,12.4420,11.1800,0.0000,1.0330,0.0000
+706,"Whitney Houston","Greatest Love of All",1986,12.4330,6.7850,4.2680,4.0170,1.5000
+707,"Milli Vanilli","Girl, I'm Gonna Miss You",1989,12.4310,4.4070,3.7000,13.4350,1.6330
+708,"Perry Como","Till The End of Time",1945,12.4310,10.0060,0.0000,0.5330,0.5110
+709,fun.,"We Are Young",2012,12.4290,6.3390,3.5830,2.8330,0.0000
+710,"Andy Gibb","I Just Wanna Be Your Everything",1977,12.4260,9.8320,6.8720,1.3750,0.7000
+711,"Mary J Blige","Family Affair",2001,12.4210,6.7310,0.6250,8.3300,0.7000
+712,Abba,"Money, Money, Money",1976,12.4140,0.7180,6.7260,15.8500,0.0000
+713,"Ace of Base","Don't Turn Around",1994,12.4080,5.5040,2.7020,7.2870,1.6320
+714,"Mike & The Mechanics","The Living Years",1989,12.3940,5.3650,7.4030,4.1190,2.0830
+715,Nelly,"My Place",2004,12.3850,3.0740,5.0380,5.0670,2.0330
+716,"Kelly Clarkson","Because of You",2006,12.3840,6.0400,1.1600,10.2150,0.5830
+717,"Simon & Garfunkel","Mrs Robinson",1968,12.3790,13.9860,5.3490,2.4290,0.5710
+718,"Christopher Cross","Arthur's Theme (Best That You Can Do)",1981,12.3720,11.6250,1.2860,3.9290,0.6000
+719,"Four Aces","Love is a Many Splendoured Thing",1955,12.3580,7.3990,4.0020,1.4100,0.0000
+720,"George Michael","One More Try",1988,12.3510,6.0670,3.6250,5.9270,1.0000
+721,"Linkin Park","In the End",2001,12.3350,6.7570,1.1470,6.7860,0.8330
+722,"The Doobie Brothers","What a Fool Believes",1979,12.3350,11.6510,4.7100,2.0170,0.5370
+723,Pussycat,Mississippi,1976,12.3310,0.0000,10.8370,12.4670,0.0100
+724,"Milli Vanilli","Girl, You Know It's True",1988,12.3250,4.3620,1.3330,12.6700,1.2180
+725,"Tommy Edwards","It's All in the Game",1958,12.3170,8.3560,6.1980,0.5910,0.0000
+726,"Perry Como","Prisoner of Love",1946,12.3120,8.0280,1.5000,0.5110,0.5140
+727,Blondie,"The Tide is High",1980,12.3090,8.5330,7.9630,5.0550,0.0000
+728,"Elvis Presley","Wooden Heart",1961,12.3070,0.2010,9.0920,7.0080,0.0000
+729,"Donna Lewis","I Love You Always Forever",1996,12.3040,4.8910,2.2790,6.7030,2.0480
+730,"Gilbert O'Sullivan",Clair,1972,12.3020,5.0920,7.7450,6.3290,0.5380
+731,"Rod Stewart","Baby Jane",1983,12.3000,1.0810,6.8440,15.8880,0.5150
+732,"Dolly Parton","9 to 5",1981,12.2860,10.5080,3.4660,3.1940,0.5150
+733,"Kay Kyser","The Woody Woodpecker Song",1948,12.2840,7.3910,1.0000,0.5130,0.5120
+734,"Eddie Fisher","I'm Walking Behind You",1953,12.2830,9.3890,4.5050,0.0000,0.0000
+735,Rihanna,"Pon De Replay",2005,12.2800,5.2410,3.0360,6.4870,1.2420
+736,"The Backstreet Boys","As Long As You Love Me",1997,12.2650,2.6810,4.1320,9.2590,1.5820
+737,"The Hollies","The Air That I Breathe",1974,12.2630,5.9640,7.3620,5.5890,0.5910
+738,Afroman,"Because I Got High",2001,12.2630,1.6770,7.8530,12.5620,0.0000
+739,"Dean Martin","That's Amore",1953,12.2540,8.7170,3.2000,0.0000,0.5280
+740,"Bing Crosby","I'll be seeing you",1944,12.2500,7.6790,1.5000,0.5670,0.5120
+741,Buggles,"Video Killed the Radio Star",1979,12.2340,2.2640,8.0750,16.2340,0.0000
+742,Nelly,"Hot in Herre",2002,12.2320,6.0200,3.3170,4.3110,0.5370
+743,"Rod Stewart",Sailing,1975,12.2280,1.2330,7.2080,10.7000,0.5370
+744,"The Black Eyed Peas","My Humps",2005,12.2260,5.1010,6.3840,5.8130,0.0000
+745,"Jimmy Dorsey","Besame Mucho",1944,12.2180,8.3840,0.8330,0.5150,0.6000
+746,"The Rolling Stones","Get Off of My Cloud",1965,12.2150,8.5820,5.1010,5.4680,0.0000
+747,"Sean Paul",Temperature,2006,12.2140,8.6830,1.1240,4.4230,1.0270
+748,"Michael Jackson & Siedah Garrett","I Just Can't Stop Loving You",1987,12.2130,4.9080,3.6430,11.5190,0.5140
+749,"Usher & Alicia Keys","My Boo",2004,12.2090,5.6280,2.4000,4.5390,2.0530
+750,"DNA & Suzanne Vega","Tom's Diner",1990,12.2090,4.8000,1.5000,12.8510,1.0370
+751,"Silver Convention","Fly Robin Fly",1975,12.2080,7.7760,3.4320,7.4700,0.6430
+752,"Will Smith","Gettin' Jiggy Wit It",1998,12.1980,5.5880,1.8660,7.5050,1.1570
+753,Evanescence,"My Immortal",2004,12.1970,4.4650,2.7860,8.2150,1.0680
+754,"Jordin Sparks & Chris Brown","No Air",2008,12.1970,5.8210,5.8580,4.2490,0.0000
+755,"George Harrison","Got My Mind Set On You",1988,12.1960,3.7450,7.2010,6.4060,0.5230
+756,Fergie,"London Bridge",2006,12.1920,4.7470,2.8700,5.2160,2.1080
+757,"MC Sar & The Real McCoy","Another Night",1994,12.1910,6.1850,3.8330,3.0450,1.6060
+758,"Sara Bareilles","Love Song",2008,12.1740,5.9060,3.5270,4.4690,0.7000
+759,"Donna Summer","Bad Girls",1979,12.1600,9.4560,4.7380,4.8370,0.5480
+760,"Tommy Dorsey & Frank Sinatra","I'll Never Smile Again",1940,12.1570,9.6550,0.0000,0.5590,0.5260
+761,"Duran Duran","Ordinary World",1993,12.1410,4.5190,2.6680,8.6170,1.9670
+762,"The Village People","In the Navy",1979,12.1390,5.2350,4.2540,11.6100,0.5160
+763,"Fred Astaire","The Way You Look Tonight",1936,12.1350,8.9500,0.0000,0.5110,0.5380
+764,"George Michael","Fast Love",1996,12.1240,2.6100,4.3610,7.8800,2.0430
+765,"Bobby Darin","Dream Lover",1959,12.1060,5.7300,4.7640,3.3100,0.0000
+766,"The Cardigans",Lovefool,1997,12.1040,2.6260,3.7700,6.4200,2.8670
+767,Abba,"Knowing Me, Knowing You",1977,12.1010,3.6930,7.6350,11.7080,0.0000
+768,"The Diamonds","Little Darlin'",1957,12.0990,6.7240,1.9270,2.6810,0.5310
+769,"Barry White","You're the First, the Last, My Everything",1975,12.0970,6.7840,4.2010,7.6720,0.5430
+770,"Van McCoy","The Hustle",1975,12.0930,9.4260,5.0670,3.0950,0.5320
+771,Madonna,"Into the Groove",1985,12.0870,3.0800,9.6070,13.2870,0.0000
+772,Train,"Drops of Jupiter (Tell Me)",2001,12.0820,7.5660,1.6270,4.1660,0.5160
+773,"Rose Royce","Car Wash",1977,12.0820,8.8590,4.3110,4.9100,0.5200
+774,"Chris Brown & Juelz Santana","Run It",2006,12.0690,4.8340,4.5500,5.1270,0.5670
+775,"Marvin Gaye","(Sexual) Healing",1983,12.0680,7.5340,6.2510,2.2250,0.5240
+776,"Evelyn Knight","A Little Bird Told Me",1949,12.0630,7.1610,1.5000,0.5140,0.5190
+777,"Destiny's Child","Say My Name",2000,12.0590,7.4120,3.0330,3.6330,0.5170
+778,"Usher & Young Jeezy","Love In This Club",2008,12.0570,7.1850,3.2700,3.1090,0.5560
+779,"Janis Joplin","Me & Bobby McGee",1971,12.0520,13.2510,4.6710,2.6030,0.5400
+780,Madonna,"Ray of Light",1998,12.0480,7.7080,1.0000,4.9270,0.7000
+781,"Louis Armstrong","(What A) Wonderful World",1968,12.0470,8.2800,6.8740,8.3590,0.0000
+782,"The Beatles","Eleanor Rigby",1966,12.0310,7.8000,11.0030,3.5160,0.0000
+783,"The Pet Shop Boys","Always On My Mind",1988,12.0280,3.0590,5.1740,15.0080,0.0000
+784,"Paula Abdul","Rush Rush",1991,12.0260,6.6140,2.7220,5.4790,2.7310
+785,"Jay-Z & Linkin Park",Numb/Encore,2005,12.0180,3.5630,2.6080,7.9410,2.0610
+786,"U2 & Green Day","The Saints are Coming",2006,12.0170,0.7200,6.0160,9.2820,0.5300
+787,"Fred Astaire & Leo Reisman","Night & Day",1932,12.0130,10.3310,0.0000,0.0000,0.5480
+788,Abba,"Take a Chance On Me",1978,12.0120,6.0100,5.4900,10.8640,0.0000
+789,"Shirley & Company","Shame, Shame, Shame",1975,12.0070,4.7720,3.0330,11.7900,0.5190
+790,"Kay Starr","Wheel of Fortune",1952,12.0040,12.7790,0.8330,0.0000,0.0000
+791,OMC,"How Bizarre",1996,11.9980,1.0920,7.9500,7.3390,1.0330
+792,"The Fireballs","Sugar Shack",1963,11.9950,10.4570,5.6130,0.0000,0.5110
+793,"Gary Puckett & The Union Gap","Young Girl",1968,11.9890,7.8700,11.5760,5.4800,0.0000
+794,"The Supremes","Where Did Our Love Go",1964,11.9760,13.5480,5.8390,2.4350,0.0000
+795,"Celine Dion","The Power of Love",1994,11.9740,5.3840,4.5000,2.8890,1.6490
+796,"Eddie Fisher","I Need You Now",1954,11.9730,9.4920,2.6270,0.0000,0.5120
+797,"K-Ci & JoJo","All My Life",1998,11.9670,4.0010,4.2250,5.8910,1.5730
+798,"Youssou N'Dour & Neneh Cherry","7 Seconds",1994,11.9580,2.2610,2.3750,16.5650,0.7500
+799,Nazareth,"Love Hurts",1976,11.9260,5.3440,6.3600,6.9080,0.5240
+800,America,"Horse With No Name",1972,11.9240,8.9500,6.4800,3.1420,0.5590
+801,"The Jackson 5","I Want You Back",1970,11.9190,14.1280,4.1220,2.3250,0.6110
+802,"Elvis Presley","Love Me Tender",1956,11.9070,10.9500,0.5910,0.6670,0.5500
+803,"Sam Cooke","Wonderful World",1960,11.9050,6.6440,1.6140,5.5420,0.0000
+804,"Phil Harris","The Thing",1950,11.8980,8.5120,4.0000,0.0000,0.0000
+805,"Brenda Lee","I'm Sorry",1960,11.8940,9.3580,2.7260,1.0000,0.5290
+806,"Sean Paul","Get Busy",2003,11.8900,4.9990,1.2880,7.7940,1.2690
+807,"Shania Twain","That Don't Impress Me Much",1999,11.8900,3.2940,5.8360,11.4700,0.0000
+808,"Usher & will.i.am",OMG,2010,11.8900,4.3900,5.5000,1.5000,0.0000
+809,"Frankie Laine","That Lucky Old Sun (Just Rolls Around Heaven All Day)",1949,11.8750,9.5160,0.0000,0.5250,0.5420
+810,Flo-Rida,Whistle,2012,11.8670,4.1860,5.2500,3.0670,0.0000
+811,"Whitney Houston","Exhale (Shoop Shoop)",1995,11.8660,4.5660,2.0910,6.1630,2.0480
+812,"Duran Duran","Wild Boys",1984,11.8600,4.6250,5.0670,15.8450,0.0000
+813,Madonna,"Die Another Day",2002,11.8340,3.2840,3.4330,6.8760,1.6390
+814,Madonna,"Beautiful Stranger",1999,11.8270,3.7200,3.7790,7.9520,1.2420
+815,Prince,"Purple Rain",1984,11.8250,7.1900,1.9590,9.7500,0.5290
+816,"Tom Jones","The Green Green Grass of Home",1967,11.8160,3.4500,11.8050,6.2330,0.0000
+817,Enya,"Orinoco Flow",1988,11.8000,2.7720,3.5000,11.8260,1.1230
+818,Steppenwolf,"Born to Be Wild",1968,11.7900,14.2920,5.1550,4.3030,0.0000
+819,"Simple Minds","Don't You (Forget About Me)",1985,11.7890,6.1570,5.8010,10.5070,0.0000
+820,Abba,Chiquitita,1979,11.7870,1.2820,8.3090,10.9350,1.1060
+821,Wings,"Band On the Run",1974,11.7860,7.7450,8.0040,2.8060,0.5630
+822,"Kate Smith","God Bless America",1939,11.7800,10.1310,0.0000,0.5560,0.0000
+823,"Mariah Carey",Heartbreaker,1999,11.7550,4.0440,2.2000,6.2960,2.5440
+824,"Harry James","Sleepy Lagoon",1942,11.7460,7.9840,0.6000,0.5220,0.5130
+825,Next,"Too Close",1998,11.7420,8.2420,2.0420,0.6250,1.0510
+826,"1910 Fruitgum Co","Simon Says",1968,11.7310,6.9340,7.0010,6.0900,0.5190
+827,"The Partridge Family","I Think I Love You",1970,11.7290,8.7340,7.8770,3.3330,0.5230
+828,"Leo Sayer","You Make Me Feel Like Dancing",1977,11.7220,6.6860,8.3330,3.0920,0.5380
+829,"Perry Como",Wanted,1954,11.7220,9.0930,2.7510,0.0000,0.5170
+830,"The Carpenters","Top of the World",1973,11.7210,6.4970,8.7710,1.1210,1.0950
+831,Madonna,"Express Yourself",1989,11.7140,5.2140,2.7000,12.0430,1.5430
+832,"DJ Jazzy Jeff & The Fresh Prince","Boom! Shake the Room",1993,11.7070,2.3650,6.0640,6.2690,1.5230
+833,"Chaka Khan","I Feel For You",1984,11.6800,6.2350,5.7520,5.6970,0.5190
+834,"The Foundations","Build Me Up Buttercup",1969,11.6720,12.3390,8.1750,1.4170,0.5210
+835,"Katy Perry & Kanye West",E.T.,2011,11.6640,6.4460,4.4000,1.1330,0.0000
+836,"Britney Spears",Everytime,2004,11.6500,3.4160,4.5000,6.2390,1.0270
+837,"Sly & The Family Stone","Family Affair",1971,11.6500,12.7700,3.2250,2.5950,1.0520
+838,"Paul Whiteman",Whispering,1920,11.6460,9.9630,0.0000,0.0000,0.5830
+839,"The Beatles",Michelle,1966,11.6360,2.3780,3.0000,9.5240,0.6430
+840,"Estelle & Kanye West","American Boy",2008,11.6350,4.4710,2.0370,8.4660,0.5150
+841,"Mariah Carey","I'll Be There",1992,11.6330,4.4980,4.0000,4.1000,2.7900
+842,"Patti Page","How Much is That Doggy in the Window?",1953,11.6330,9.5220,3.6110,0.0000,0.0000
+843,"BoB & Hayley Williams",Airplanes,2010,11.6290,6.2690,3.5910,1.1450,0.0000
+844,Usher,Burn,2004,11.6210,6.4150,3.5530,3.4380,0.5500
+845,Gorillaz,"Feel Good Inc",2005,11.6170,6.7570,1.7500,4.9970,1.1220
+846,"Neil Diamond","Song Sung Blue",1972,11.6070,6.9920,4.2710,6.4140,0.5200
+847,"Bobby Vinton","Roses Are Red",1962,11.6060,7.0680,6.2220,2.7030,0.0000
+848,"Don Cornell","Hold My Hand",1954,11.6030,4.7600,6.5210,0.8330,0.0000
+849,"Engelbert Humperdinck","The Last Waltz",1967,11.5870,1.6540,13.2050,4.1640,0.5120
+850,"Timbaland & Nelly Furtado & Justin Timberlake","Give it to Me",2007,11.5750,4.3900,2.0180,7.9780,1.1020
+851,"Mario Winans","I Don't Wanna Know",2004,11.5670,3.4690,2.5560,10.4170,0.5340
+852,"The Backstreet Boys","Everybody (Backstreet's Back)",1997,11.5570,4.2600,1.9750,9.7230,1.0380
+853,"Christina Aguilera",Hurt,2006,11.5510,3.0700,1.8560,12.4710,0.5140
+854,"Jimmie Rodgers","T For Texas (Blue Yodel No 1)",1928,11.5350,8.8800,0.1000,0.0000,0.5160
+855,"Wilson Phillips","Hold On",1990,11.5270,7.3690,0.6670,5.0000,2.5880
+856,"Peggy Lee","Manana (Is Soon Enough For Me)",1948,11.5260,8.6460,0.0000,0.5110,0.5910
+857,"George Gershwin","Rhapsody in Blue",1924,11.5030,8.3350,0.0000,0.6000,0.5360
+858,"Little Richard","Long Tall Sally",1956,11.4980,8.7480,2.0850,0.6110,0.5200
+859,"Benny Goodman","Sing, Sing, Sing (With A Swing)",1937,11.4960,8.1300,0.8330,0.0000,0.5190
+860,Smokie,"Living Next Door to Alice",1977,11.4880,1.2680,5.5440,15.6180,0.0000
+861,"New Kids On The Block","Step By Step",1990,11.4790,5.1170,2.5000,7.4130,1.5590
+862,"Manfred Mann","Mighty Quinn",1968,11.4720,5.8250,9.3110,7.7670,0.0000
+863,"The Troggs","Wild Thing",1966,11.4650,11.1630,7.5050,2.9090,0.0000
+864,"2 Unlimited","No Limit",1993,11.4480,0.7130,3.5030,16.2360,1.1690
+865,Hoobastank,"The Reason",2004,11.4470,7.5790,0.5830,4.7400,1.1230
+866,"Laura Branigan","Self Control",1984,11.4460,3.0740,5.5670,17.4140,0.0000
+867,"Eddie Fisher","Oh My Papa (O Mein Papa)",1954,11.4270,9.4090,2.1110,0.0000,0.5270
+868,"Savage Garden","I Want You",1997,11.4240,4.4550,3.1590,4.0130,2.0660
+869,"The Mamas & The Papas","California Dreamin'",1966,11.4210,15.7010,1.6880,1.5170,0.5480
+870,"The Black Eyed Peas","Meet Me Half Way",2009,11.4150,4.5160,3.6250,8.5020,0.5160
+871,Madonna,Secret,1994,11.4110,4.0060,2.7230,7.2220,2.0150
+872,"Michael Jackson",Bad,1987,11.4110,3.8600,3.6290,11.6890,0.5710
+873,"Lisa Loeb & Nine Stories","Stay (I Missed You)",1994,11.4070,7.4820,2.6900,0.5710,1.5940
+874,"Jerry Lee Lewis","Whole Lotta Shakin' Goin' On",1957,11.3990,11.0090,1.3020,1.0940,0.0000
+875,Blondie,Rapture,1981,11.3920,8.3390,3.3670,4.6590,0.5210
+876,"Mariah Carey",Hero,1993,11.3890,6.6640,1.1730,2.9670,2.6670
+877,Highwaymen,"Michael Row the Boat",1961,11.3880,3.4950,8.0720,2.5770,0.5260
+878,"Sonny & Cher","I Got You Babe",1965,11.3860,11.7290,4.2510,3.3360,0.0000
+879,"Debbie Reynolds",Tammy,1957,11.3800,6.1840,4.0030,1.0820,0.5170
+880,"Guess Who","American Woman",1970,11.3780,9.1590,4.6840,5.0970,0.5310
+881,"Mario Lanza","Be My Love",1951,11.3700,10.3000,0.0000,0.5130,0.5590
+882,"Nini Rosso","Il Silenzio",1965,11.3480,1.5000,1.2360,9.5830,0.5160
+883,Madonna,"I'll Remember",1994,11.3480,5.6000,2.1430,5.4200,1.7230
+884,"The Jackson 5","I'll Be There",1970,11.3420,14.8870,3.2830,1.6760,0.5480
+885,"Bruno Mars","Locked Out Of Heaven",2012,11.3410,7.7870,2.0360,1.2260,0.0000
+886,"The Beatles","The Long & Winding Road",1970,11.3370,9.9010,4.1720,3.1990,1.3620
+887,Technotronic,"Get Up (Before the Night is Over)",1990,11.3290,3.1570,1.5000,13.4070,1.2500
+888,Enya,"Only Time",2001,11.3220,2.8440,2.5340,8.7410,2.0110
+889,Melanie,"Brand New Key",1972,11.3220,9.1120,11.0080,1.1610,0.0000
+890,"Rick Astley","Together Forever",1988,11.3080,3.6190,4.5010,7.5080,1.0300
+891,"Pop Tops","Mammy Blue",1971,11.2840,0.7180,1.2790,14.6560,0.5360
+892,"Cliff Richard","Living Doll",1959,11.2710,0.7340,6.3040,5.0630,0.0000
+893,"Johnnie Ray","Just Walkin' in the Rain",1956,11.2690,4.1760,6.6160,1.0850,0.0000
+894,"Inner Circle","Sweat (A La La La La Song)",1992,11.2690,2.1130,3.9180,12.6610,1.7310
+895,"Billy Ray Cyrus","Achy Breaky Heart",1992,11.2640,5.2710,5.8330,3.8320,0.5110
+896,"Michael Jackson","Remember the Time",1992,11.2640,4.8840,2.3330,8.5090,2.0490
+897,Aaliyah,"Try Again",2000,11.2560,5.8040,0.7000,9.4020,0.5910
+898,"Janet Jackson",Escapade,1990,11.2450,6.0190,2.0590,2.9870,3.0000
+899,"Meredith Brooks",Bitch,1997,11.2420,4.1840,1.7780,7.9360,1.6730
+900,"2Pac & Dr Dre","California Love",1996,11.2360,3.6970,3.4490,7.6170,1.0380
+901,"The Rolling Stones","19th Nervous Breakdown",1966,11.2250,8.8130,3.0000,7.1890,0.0000
+902,"Don Henley","The Boys of Summer",1985,11.2230,8.7460,2.1200,3.7240,0.5110
+903,EMF,Unbelievable,1991,11.2160,7.1540,1.3330,6.3890,2.2150
+904,Ne-Yo,"So Sick",2006,11.2120,5.3700,2.0360,5.0460,1.5960
+905,"KC & The Sunshine Band","That's the Way (I Like It)",1975,11.2070,8.3260,5.5090,5.7130,0.0000
+906,"Steve Winwood","Higher Love",1986,11.2030,8.9440,3.1370,1.1130,0.5130
+907,"Connie Francis","Who's Sorry Now?",1958,11.2020,4.1650,7.5290,0.5110,0.5190
+908,"Simply Red","If You Don't Know Me By Now",1989,11.1980,4.6760,5.0830,6.9270,1.8220
+909,Adele,Skyfall,2012,11.1830,4.1360,3.0000,5.2000,0.0000
+910,"Elvis Presley","Stuck On You",1960,11.1750,6.0970,3.8330,3.7750,0.0000
+911,"Robert Palmer","Addicted to Love",1986,11.1750,9.0670,5.5540,1.5980,0.0000
+912,Kelis,Milkshake,2004,11.1570,5.6670,3.5830,3.5080,0.7000
+913,Technotronic,"Pump Up the Jam",1989,11.1550,4.9360,2.8930,9.0840,2.2110
+914,"The Monkees","A Little Bit Me, a Little Bit You",1967,11.1550,7.4220,8.6510,2.7080,0.5160
+915,"Al Hibbler","Unchained Melody",1955,11.1540,5.0510,6.0040,0.0000,0.5110
+916,"Crazy Town",Butterfly,2001,11.1540,3.2930,1.8830,12.2590,0.5590
+917,"Elvis Presley","Crying in the Chapel",1965,11.1540,7.5720,7.6460,2.8270,0.0000
+918,TLC,Creep,1995,11.1530,7.3670,0.5450,1.7000,1.9030
+919,"The Beatles","Ob-La-Di, Ob-La-Da",1969,11.1510,1.2560,7.8870,9.2220,0.6430
+920,"Carl Perkins","Blue Suede Shoes",1956,11.1480,12.2890,0.7000,0.0000,0.5110
+921,"Macklemore & Ryan Lewis","Thrift Shop",2013,11.1450,5.7210,5.1110,3.5670,0.0000
+922,"Lovin' Spoonful","Summer in the City",1966,11.1440,12.2740,5.6160,3.0250,0.0000
+923,"The Beach Boys","I Wanna Go Home (The Wreck of the 'John B')",1966,11.1410,6.8290,4.0010,7.7080,0.0000
+924,"Four Aces","Three Coins in the Fountain",1954,11.1320,8.1660,2.9500,0.0000,0.5910
+925,Beyonce,"Check On It",2006,11.1270,5.8590,2.3330,4.6510,1.0840
+926,"Herman's Hermits","No Milk Today",1966,11.1150,2.0130,6.2140,7.1280,0.5340
+927,"Creedence Clearwater Revival","Lookin' Out My Back Door",1970,11.1150,8.7920,8.2170,4.8150,0.0000
+928,"Bobby Brown","Humpin' Around",1992,11.1030,4.2990,2.5980,5.8240,3.0000
+929,"Sheena Easton","For Your Eyes Only",1981,11.1020,6.2320,1.2680,9.3200,0.5290
+930,"Bee Gees","You Win Again",1987,11.0930,0.7130,5.8350,14.4240,0.5110
+931,"Little Peggy March","I Will Follow Him",1963,11.0890,7.2270,5.7360,0.5040,0.5430
+932,"The Browns","The Three Bells (Les Trois Cloches)",1959,11.0770,5.1400,4.7880,2.7830,0.0000
+933,"Sugarhill Gang","Rapper's Delight",1980,11.0600,5.4820,4.8750,9.8910,0.0000
+934,Jewel,"You Were Meant for Me",1997,11.0580,8.1410,1.5850,0.5340,1.0530
+935,"Whitney Houston","Saving All My Love For You",1985,11.0540,5.0490,6.2860,4.6260,1.0270
+936,"Savage Garden","I Knew I Loved You",1999,11.0420,4.7510,3.1430,3.2130,1.9240
+937,"Frankie Laine","I Believe",1953,11.0390,5.0500,4.0000,0.5140,0.5380
+938,"The Bangles","Manic Monday",1986,11.0320,4.8680,4.9290,7.0040,0.5110
+939,"Alanis Morissette","Hands Clean",2002,11.0300,2.2930,3.5830,5.0670,2.5460
+940,"Eric Prydz","Call On Me",2004,11.0100,0.8330,3.5290,12.4920,0.5250
+941,"Kenny Rogers",Lady,1980,11.0100,9.9270,1.9750,3.8980,0.6430
+942,"The Platters","My Prayer",1956,11.0070,8.0480,0.7500,1.7790,0.5450
+943,"Kyu Sakamoto",Sukiyaki,1963,11.0060,5.3270,4.4170,2.6080,0.5380
+944,"Derek & The Dominos",Layla,1972,11.0040,12.6780,3.9330,3.1570,0.0000
+945,"Donny Osmond","Puppy Love",1972,11.0010,5.4230,11.6950,1.8330,0.0100
+946,"Johnny Nash","I Can See Clearly Now",1972,11.0000,8.9070,7.9540,0.6110,0.5320
+947,"Maroon 5","This Love",2004,10.9970,5.0090,0.8330,6.6580,1.7610
+948,"The Proclaimers","I'm Gonna Be (500 miles)",1993,10.9960,5.0110,5.3420,2.8260,0.5150
+949,"Julie Covington","Don't Cry For Me Argentina",1977,10.9880,0.0000,12.7520,8.0170,0.5230
+950,"Elvis Presley","(Let Me Be Your) Teddy Bear",1957,10.9840,6.1660,2.8370,1.6090,0.5120
+951,"Jay-Z & Alicia Keys","Empire State Of Mind",2009,10.9750,7.9030,1.5530,4.4180,0.5110
+952,"Avril Lavigne","Sk8er Boi",2002,10.9740,4.3660,1.1540,6.2780,1.8440
+953,"Charles & Eddie","Would I Lie to You?",1992,10.9710,1.6040,4.9370,12.5950,1.0960
+954,"No Mercy","Where Do You Go?",1996,10.9680,3.0840,4.2840,6.9700,1.0310
+955,"Hall & Oates",Maneater,1982,10.9620,6.4090,3.1670,5.4490,0.5190
+956,"Sister Sledge","We Are Family",1979,10.9610,9.6270,3.6250,3.3020,0.5260
+957,"Paper Lace","The Night Chicago Died",1974,10.9600,6.7190,7.4170,5.7230,0.0000
+958,"Elton John","Philadelphia Freedom",1975,10.9580,9.9580,4.5830,0.7500,0.5830
+959,"La Bouche","Be My Lover",1995,10.9560,3.6180,1.0800,11.0880,1.0350
+960,"The Andrews Sisters","I Can Dream, Can't I?",1950,10.9530,9.5740,0.0000,0.7500,0.5240
+961,"Dr Hook","Sylvia's Mother",1972,10.9500,4.7180,10.9000,4.7590,0.0000
+962,"KC & The Sunshine Band","Please Don't Go",1980,10.9460,4.6750,8.0170,3.7990,0.5260
+963,"Glenn Medeiros","Nothing's Gonna Change My Love For You",1987,10.9400,1.6050,7.3760,9.7470,0.5150
+964,"Frankie Goes To Hollywood","Two Tribes",1984,10.9360,1.8920,9.2020,12.9960,0.0000
+965,"REO Speedwagon","Keep On Loving You",1981,10.9310,9.1520,3.0260,2.9570,0.5480
+966,"Petula Clark","This is My Song",1967,10.9250,5.1100,8.7960,3.7190,0.5370
+967,Seal,Crazy,1991,10.9210,3.9880,2.0020,13.9430,1.0990
+968,"Love Unlimited","Love's Theme",1974,10.9130,7.6390,5.8000,3.2920,0.6250
+969,"The Rolling Stones","Start Me Up",1981,10.9120,6.3710,5.9670,7.0510,0.0000
+970,"Los Bravos","Black is Black",1966,10.9060,6.1210,5.1020,4.8500,0.5770
+971,"Paula Abdul","Straight Up",1989,10.9060,5.7660,1.3330,9.6090,2.2000
+972,Flo-Rida,"Good Feeling",2012,10.8970,4.2950,3.0500,4.5000,0.0000
+973,Beyonce,Halo,2009,10.8900,4.9280,2.2930,7.9780,1.0000
+974,"Manfred Mann","Do Wah Diddy Diddy",1964,10.8900,9.8970,7.0300,2.6320,0.0000
+975,"Leroy Anderson","Blue Tango",1952,10.8800,10.0150,0.0000,0.5140,0.5330
+976,"Christina Aguilera","What a Girl Wants",2000,10.8760,4.2110,3.8330,5.5300,1.2380
+977,"Jane Birkin & Serge Gainsbourg","Je T'Aime (Moi Non Plus)",1969,10.8660,1.7330,2.1040,12.4610,0.5210
+978,"The Pussycat Dolls",Stickwitu,2005,10.8650,4.3910,3.5340,5.9820,0.5210
+979,"Edward Maya & Vika Jigulina","Stereo love",2010,10.8620,2.6500,2.2500,5.8500,0.0000
+980,"Roy Orbison",Crying,1961,10.8580,10.3700,4.5160,0.0000,0.5590
+981,Baltimora,"Tarzan Boy",1985,10.8510,2.8830,3.0000,14.1230,0.5100
+982,"BoB & Bruno Mars","Nothin' on You",2010,10.8510,6.2650,2.0200,2.0160,0.0000
+983,"Paul Mauriat & his Orchestra","Love Is Blue (L'Amour Est Bleu)",1968,10.8340,10.1500,7.1100,1.7890,0.7000
+984,"Michael Sembello",Maniac,1983,10.8330,7.0430,4.0250,7.5450,0.0000
+985,Trio,"Da Da Da ich lieb dich nicht du liebst mich nicht aha aha aha",1982,10.8330,0.7100,5.9170,14.0550,0.0000
+986,"Crowded House","Don't Dream It's Over",1987,10.8280,4.9610,4.5850,4.9180,1.0800
+987,"Fred Astaire","Cheek to Cheek",1935,10.8250,9.2760,0.0000,0.0000,0.5260
+988,"Stevie Wonder","Sir Duke",1977,10.8250,7.5270,4.3750,4.2640,0.5330
+989,"The Pet Shop Boys","It's a Sin",1987,10.8120,2.3600,5.5560,14.7920,0.0000
+990,"Whitney Houston","I'm Your Baby Tonight",1990,10.8090,4.4460,0.7000,9.8530,2.0370
+991,"Amy Grant","Baby Baby",1991,10.8030,6.8910,2.0020,5.7700,1.6900
+992,"Singing Nun (Soeur Sourire)",Dominique,1963,10.8030,5.7550,4.3430,2.1470,0.5340
+993,"Kevin Lyttle","Turn Me On",2004,10.8010,3.8400,2.0400,7.4640,1.2720
+994,"Baha Men","Who Let the Dogs Out?",2000,10.7980,2.5490,5.9650,6.0460,1.2120
+995,"The Supremes","Baby Love",1964,10.7790,12.7140,4.2050,2.4610,0.0000
+996,"Crystal Waters","Gypsy Woman (La Da Dee)",1991,10.7780,2.4350,1.6000,13.7030,2.6800
+997,"Peaches & Herb",Reunited,1979,10.7770,7.9660,5.2500,3.6000,0.5670
+998,"Luther Vandross & Mariah Carey","Endless Love",1994,10.7720,4.3880,2.8720,5.8750,1.5200
+999,"Kool & The Gang",Cherish,1985,10.7700,3.9620,4.7520,7.9440,1.0550
+1000,Rihanna,Diamonds,2012,10.7690,3.6390,2.0310,6.6670,0.0000

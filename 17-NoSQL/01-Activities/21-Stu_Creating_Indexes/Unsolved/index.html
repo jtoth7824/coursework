@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Creating Indexes</title>
+  </head>
+
+  <body>
+    <h1>Open Your Developer Tools > Application > IndexedDB</h1>
+    <script>
+      const request = window.indexedDB.open("toDoList", 1);
+
+      request.onupgradeneeded = ({ target }) => {
+        // CODE HERE
+        const db = target.result;
+
+        const objectStore = db.createObjectStore("toDoList");
+        objectStore.createIndex("icebox", "icebox");
+        objectStore.createIndex("inprogress", "inprogress");
+        objectStore.createIndex("complete", "complete");
+      };
+
+      request.onsuccess = event => {
+        console.log(request.result);
+      };
+    </script>
+  </body>
+</html>

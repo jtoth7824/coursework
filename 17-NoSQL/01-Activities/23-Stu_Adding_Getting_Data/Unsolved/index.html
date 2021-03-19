@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Adding and Getting Data</title>
+  </head>
+
+  <body>
+    <h1>Open Your Developer Tools > Application > IndexedDB</h1>
+    <script>
+      const request = window.indexedDB.open("toDoList", 1);
+      
+      request.onupgradeneeded = event => {
+        const db = event.target.result;
+       // CODE HERE
+       const toDoListStore = db.createObjectStore("toDoList", {keyPath: "listID"});
+       toDoListStore.createIndex("johnIndex", "dueDate");
+
+      }
+
+      
+      request.onsuccess = () => {
+        const db = request.result;
+        // CODE HERE
+        const transaction = db.transaction(["toDoList"], "readwrite");
+        const toDoListStore = transaction.objectStore("toDoList");
+        const johnIndex = toDoListStore.index("johnIndex");
+
+
+      toDoListStore.add({listID: "1", dueDate: "january"});
+      toDoListStore.add({listID: "2", dueDate: "August"});
+      toDoListStore.add({listID: "3", dueDate: "November"});
+      toDoListStore.add({listID: "4", dueDate: "July"});
+
+      const getRequest = toDoListStore.get("2");
+      getRequest.onsuccess = () => {
+        console.log(getRequest.result);
+      };
+
+      const getRequestIdx = johnIndex.getAll("November");
+      getRequestIdx.onsuccess = () => {
+        console.log(getRequestIdx.result);
+      };
+
+      };
+
+
+
+    </script>
+  </body>
+</html>
